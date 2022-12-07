@@ -2941,6 +2941,32 @@ Building, shipping, and running workflows ^J4m1MMCR
 			"updated": 1670455741343,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "aWc7xFJ7kfRAiUMGPI4Zz",
+			"type": "diamond",
+			"x": 380,
+			"y": 760,
+			"width": 300,
+			"height": 220,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#fd7e14",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 70,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 550682568,
+			"version": 19,
+			"versionNonce": 1567506120,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1670455917368,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -2959,10 +2985,10 @@ Building, shipping, and running workflows ^J4m1MMCR
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 905.2777777777778,
-		"scrollY": -121.51991750652587,
+		"scrollX": 955.3571428571428,
+		"scrollY": 283.91741071428567,
 		"zoom": {
-			"value": 0.9
+			"value": 0.7000000000000001
 		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": 20,

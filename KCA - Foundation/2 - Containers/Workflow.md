@@ -8,6 +8,44 @@ tags: [excalidraw]
 
 
 # Text Elements
+Image Registry ^VNbgaDoj
+
+CI / CD Orchestration ^RlOonGlv
+
+Code Repository ^IVps8bV3
+
+Testing ^F9IjwwM8
+
+Q&A ^zRcBCfJQ
+
+Pre 
+Production ^OhcK8KU9
+
+Production ^fWgAsLgy
+
+/* Hello World C :) */ ^XKzQe4Y4
+
+#include <stdio.h>
+int main() {
+   // printf() 
+   printf("Hello, World!");
+   return 0;
+} ^deFeUPhh
+
+Compile code to binary ^hbT20hiH
+
+Add binary to image ^As6os0kK
+
+Docker ^mEsBltlr
+
+Docker / Container ^bmCYBwhD
+
+Code ^NxlcdprV
+
+Developer ^SyrUfBfh
+
+Building, shipping, and running workflows ^J4m1MMCR
+
 %%
 # Drawing
 ```json
@@ -2113,7 +2151,7 @@ tags: [excalidraw]
 			"locked": false,
 			"startBinding": {
 				"elementId": "deFeUPhh",
-				"focus": null,
+				"focus": 0,
 				"gap": 12
 			},
 			"endBinding": {
@@ -2877,6 +2915,32 @@ tags: [excalidraw]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Building, shipping, and running workflows"
+		},
+		{
+			"type": "ellipse",
+			"version": 22,
+			"versionNonce": 199301320,
+			"isDeleted": false,
+			"id": "BW1P_EK5dYQ61YAVWTBjU",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 70,
+			"angle": 0,
+			"x": -200,
+			"y": 780,
+			"strokeColor": "#000000",
+			"backgroundColor": "#fd7e14",
+			"width": 340,
+			"height": 280,
+			"seed": 1042961592,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1670455741343,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -2895,10 +2959,10 @@ tags: [excalidraw]
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1605.5789473684224,
-		"scrollY": 2321.503748429148,
+		"scrollX": 905.2777777777778,
+		"scrollY": -121.51991750652587,
 		"zoom": {
-			"value": 0.4999999999999997
+			"value": 0.9
 		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": 20,

@@ -163,13 +163,21 @@
                 "file": "KCA - Foundation/2 - Containers/Workflow.md"
               }
             }
+          },
+          {
+            "id": "3647d2ee719feb12",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "05940676b2a69eef",
   "lastOpenFiles": [

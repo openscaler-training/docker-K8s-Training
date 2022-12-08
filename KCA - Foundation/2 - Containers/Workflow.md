@@ -1062,7 +1062,12 @@ Building, shipping, and running workflows ^J4m1MMCR
 			"seed": 1087040440,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": [],
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "VNbgaDoj"
+				}
+			],
 			"updated": 1670449000456,
 			"link": null,
 			"locked": false
@@ -1123,7 +1128,12 @@ Building, shipping, and running workflows ^J4m1MMCR
 			"seed": 574785736,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": [],
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "RlOonGlv"
+				}
+			],
 			"updated": 1670449000456,
 			"link": null,
 			"locked": false
@@ -1184,7 +1194,12 @@ Building, shipping, and running workflows ^J4m1MMCR
 			"seed": 1927323080,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": [],
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "IVps8bV3"
+				}
+			],
 			"updated": 1670449000456,
 			"link": null,
 			"locked": false
@@ -2925,6 +2940,47 @@ Building, shipping, and running workflows ^J4m1MMCR
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Building, shipping, and running workflows"
+		},
+		{
+			"id": "zHPSldZoEsidMybwyv_uz",
+			"type": "line",
+			"x": -460,
+			"y": 0,
+			"width": 340,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#fd7e14",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 70,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 93343209,
+			"version": 19,
+			"versionNonce": 725920871,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1670487732150,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					340,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		}
 	],
 	"appState": {
@@ -2943,10 +2999,10 @@ Building, shipping, and running workflows ^J4m1MMCR
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 884,
-		"scrollY": 127.95317277125184,
+		"scrollX": 936.4705882352939,
+		"scrollY": 372.9613970588234,
 		"zoom": {
-			"value": 1
+			"value": 0.8500000000000001
 		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": 20,

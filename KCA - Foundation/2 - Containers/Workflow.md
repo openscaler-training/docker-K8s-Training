@@ -127,8 +127,8 @@ Building, shipping, and running workflows ^J4m1MMCR
 		},
 		{
 			"type": "rectangle",
-			"version": 484,
-			"versionNonce": 595580088,
+			"version": 485,
+			"versionNonce": 1921338176,
 			"isDeleted": false,
 			"id": "VPScDNfVMRGCQtTdlQtd0",
 			"fillStyle": "solid",
@@ -149,8 +149,13 @@ Building, shipping, and running workflows ^J4m1MMCR
 				"hpPo7embK94JxPvaxOoJO"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1670449000456,
+			"boundElements": [
+				{
+					"id": "GtkW7dPr-A_LJfOYGhdaY",
+					"type": "arrow"
+				}
+			],
+			"updated": 1670485763091,
 			"link": null,
 			"locked": false
 		},
@@ -2091,8 +2096,8 @@ Building, shipping, and running workflows ^J4m1MMCR
 		},
 		{
 			"type": "text",
-			"version": 100,
-			"versionNonce": 795504568,
+			"version": 101,
+			"versionNonce": 1109242688,
 			"isDeleted": false,
 			"id": "deFeUPhh",
 			"fillStyle": "solid",
@@ -2110,8 +2115,13 @@ Building, shipping, and running workflows ^J4m1MMCR
 			"seed": 239454664,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1670449000456,
+			"boundElements": [
+				{
+					"id": "GtkW7dPr-A_LJfOYGhdaY",
+					"type": "arrow"
+				}
+			],
+			"updated": 1670485763090,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.400000000000004,
@@ -2179,8 +2189,8 @@ Building, shipping, and running workflows ^J4m1MMCR
 		},
 		{
 			"type": "arrow",
-			"version": 250,
-			"versionNonce": 1846756280,
+			"version": 265,
+			"versionNonce": 1647960896,
 			"isDeleted": false,
 			"id": "GtkW7dPr-A_LJfOYGhdaY",
 			"fillStyle": "solid",
@@ -2193,13 +2203,13 @@ Building, shipping, and running workflows ^J4m1MMCR
 			"y": 300,
 			"strokeColor": "#e67700",
 			"backgroundColor": "transparent",
-			"width": 251.3127780637991,
-			"height": 120,
+			"width": 120,
+			"height": 140,
 			"seed": 1475912888,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1670449000455,
+			"updated": 1670485763661,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2208,9 +2218,9 @@ Building, shipping, and running workflows ^J4m1MMCR
 				"gap": 9.486653263289156
 			},
 			"endBinding": {
-				"elementId": "XKzQe4Y4",
-				"focus": -0.9371518730888032,
-				"gap": 11.894294419758808
+				"elementId": "deFeUPhh",
+				"focus": -0.6610169491525423,
+				"gap": 20
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2225,8 +2235,8 @@ Building, shipping, and running workflows ^J4m1MMCR
 					120
 				],
 				[
-					251.3127780637991,
-					55.97005273031289
+					120,
+					140
 				]
 			]
 		},
@@ -2915,58 +2925,6 @@ Building, shipping, and running workflows ^J4m1MMCR
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Building, shipping, and running workflows"
-		},
-		{
-			"type": "ellipse",
-			"version": 32,
-			"versionNonce": 619306680,
-			"isDeleted": false,
-			"id": "BW1P_EK5dYQ61YAVWTBjU",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 70,
-			"angle": 0,
-			"x": -320,
-			"y": 640,
-			"strokeColor": "#000000",
-			"backgroundColor": "#fd7e14",
-			"width": 340,
-			"height": 280,
-			"seed": 1042961592,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1670455974182,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "diamond",
-			"version": 19,
-			"versionNonce": 1567506120,
-			"isDeleted": false,
-			"id": "aWc7xFJ7kfRAiUMGPI4Zz",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 70,
-			"angle": 0,
-			"x": 380,
-			"y": 760,
-			"strokeColor": "#000000",
-			"backgroundColor": "#fd7e14",
-			"width": 300,
-			"height": 220,
-			"seed": 550682568,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1670455917368,
-			"link": null,
-			"locked": false
 		}
 	],
 	"appState": {
@@ -2985,10 +2943,10 @@ Building, shipping, and running workflows ^J4m1MMCR
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 955.3571428571428,
-		"scrollY": 283.91741071428567,
+		"scrollX": 897,
+		"scrollY": 68.95317277125184,
 		"zoom": {
-			"value": 0.7000000000000001
+			"value": 1
 		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": 20,

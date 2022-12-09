@@ -33,7 +33,9 @@ knowledge, and competency to perform the responsibilities of Kubernetes administ
 The CKA program is separate from Kubernetes Certified Service Provider (KCSP) program. You can become a CKA without
 needing to be involved with a KCSP,  ^DNRznIrZ
 
-but for a company to become a KCSP it must employ at least three CKAs. You can learn more about the KCSP program. ^YnnFVJv3
+but for a company to become a KCSP it must employ at least three CKAs. You can  ^YnnFVJv3
+
+learn more about the KCSP program. ^PkljuwWJ
 
 %%
 # Drawing
@@ -363,10 +365,10 @@ but for a company to become a KCSP it must employ at least three CKAs. You can l
 			"type": "text",
 			"x": -300,
 			"y": 184,
-			"width": 1205,
+			"width": 844,
 			"height": 25,
 			"angle": 0,
-			"strokeColor": "#5c940d",
+			"strokeColor": "#d9480f",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -376,28 +378,63 @@ but for a company to become a KCSP it must employ at least three CKAs. You can l
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1767565228,
-			"version": 39,
-			"versionNonce": 1070872980,
+			"version": 41,
+			"versionNonce": 1637047980,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1670624550355,
+			"updated": 1670624567669,
 			"link": null,
 			"locked": false,
-			"text": "but for a company to become a KCSP it must employ at least three CKAs. You can learn more about the KCSP program.",
-			"rawText": "but for a company to become a KCSP it must employ at least three CKAs. You can learn more about the KCSP program.",
+			"text": "but for a company to become a KCSP it must employ at least three CKAs. You can ",
+			"rawText": "but for a company to become a KCSP it must employ at least three CKAs. You can ",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "but for a company to become a KCSP it must employ at least three CKAs. You can learn more about the KCSP program."
+			"originalText": "but for a company to become a KCSP it must employ at least three CKAs. You can "
+		},
+		{
+			"id": "PkljuwWJ",
+			"type": "text",
+			"x": -660,
+			"y": 220,
+			"width": 362,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#d9480f",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 596289836,
+			"version": 33,
+			"versionNonce": 89466772,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1670624571014,
+			"link": null,
+			"locked": false,
+			"text": "learn more about the KCSP program.",
+			"rawText": "learn more about the KCSP program.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "learn more about the KCSP program."
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#5c940d",
+		"currentItemStrokeColor": "#d9480f",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,

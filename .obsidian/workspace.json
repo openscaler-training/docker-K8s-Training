@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1150e14c07af69a6",
+        "id": "aecd8d0c3003bd8a",
         "type": "tabs",
         "children": [
           {
-            "id": "05940676b2a69eef",
+            "id": "4ab77ee635aae50e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.09.30.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -43,10 +41,8 @@
             "id": "b74b1f7478081b67",
             "type": "leaf",
             "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Untitled Diagram.svg"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -94,6 +90,16 @@
             "id": "8bb146b52accd019",
             "type": "leaf",
             "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "KCA - Foundation/2 - Containers/Docker/Untitled Diagram.svg"
+              }
+            }
+          },
+          {
+            "id": "260e97b6c62d6652",
+            "type": "leaf",
+            "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
@@ -105,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 1143.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2d6c14e40bf955b",
@@ -121,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.09.30.excalidraw.md",
+                "file": "KCA - Foundation/2 - Containers/Docker/Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.09.30.excalidraw.md",
+                "file": "KCA - Foundation/2 - Containers/Docker/Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.09.30.excalidraw.md"
+                "file": "KCA - Foundation/2 - Containers/Docker/Untitled Diagram.svg"
               }
             }
           },
@@ -181,17 +188,11 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "05940676b2a69eef",
+  "active": "8bb146b52accd019",
   "lastOpenFiles": [
-    "KCA - Foundation/2 - Containers/Docker intro.md",
     "KCA - Foundation/2 - Containers/1- Key Container Concepts.md",
-    "KCA - Foundation/2 - Containers/Drawing 2022-12-07 22.43.20.excalidraw.md",
-    "KCA - Foundation/2 - Containers/Workflow.md",
-    "Excalidraw/Scripts/Set Stroke Width of Selected Elements.md",
-    "Excalidraw/Drawing 2022-12-05 14.28.56.excalidraw.md",
-    "KCA - Foundation/DevOps/Classic vs Cloud-native App.md",
-    "KCA - Foundation/DevOps/Pet vs Cattle.md",
-    "KCA - Foundation/0 - Little of history/Tech shift.md",
-    "KCA - Foundation/1 - Linux for K8s/Drawing 2022-11-22 22.17.26.excalidraw.md"
-  ]
-}
+    "KCA - Foundation/2 - Containers/Docker/Untitled Diagram.svg",
+    "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.09.30.excalidraw.md",
+    "diagrams-08 - flow.drawio.svg",
+    "KCA - Foundation/2 - Containers/Docker intro.md",
+    "KCA - Foundation/2 -

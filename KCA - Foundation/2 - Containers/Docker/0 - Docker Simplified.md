@@ -6283,7 +6283,7 @@ specific program ^bWn0cG5q
 				"PHYcsM-mlMrn0IS476hMZ"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670606717002,
 			"link": null,
 			"locked": false,
@@ -7206,10 +7206,10 @@ specific program ^bWn0cG5q
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -44.42998801099026,
-		"scrollY": -3347.1888668489355,
+		"scrollX": 3532.529453487831,
+		"scrollY": 689.3206181036433,
 		"zoom": {
-			"value": 1.540288728421622
+			"value": 0.2
 		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null,

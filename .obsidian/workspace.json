@@ -11,8 +11,10 @@
             "id": "c374fcae1008b293",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.09.30.excalidraw.md"
+              }
             }
           }
         ],
@@ -111,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 330.5
   },
   "right": {
     "id": "b2d6c14e40bf955b",
@@ -127,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.09.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.09.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.09.30.excalidraw.md"
+              }
             }
           },
           {
@@ -183,17 +189,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "260e97b6c62d6652",
+  "active": "c374fcae1008b293",
   "lastOpenFiles": [
+    "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.49.07.excalidraw.md",
+    "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.49.19.excalidraw.md",
+    "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.49.04.excalidraw.md",
     "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.09.30.excalidraw.md",
-    "KCA - Foundation/2 - Containers/Docker/Untitled Diagram.svg",
     "KCA - Foundation/2 - Containers/Docker intro.md",
+    "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.49.23.excalidraw.md",
+    "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.49.21.excalidraw.md",
+    "KCA - Foundation/2 - Containers/Docker/Untitled Diagram.svg",
     "KCA - Foundation/2 - Containers/1- Key Container Concepts.md",
-    "diagrams-08 - flow.drawio.svg",
-    "KCA - Foundation/2 - Containers/Drawing 2022-12-07 22.43.20.excalidraw.md",
-    "KCA - Foundation/2 - Containers/Workflow.md",
-    "Excalidraw/Scripts/Set Stroke Width of Selected Elements.md",
-    "Excalidraw/Drawing 2022-12-05 14.28.56.excalidraw.md",
-    "KCA - Foundation/DevOps/Classic vs Cloud-native App.md"
+    "diagrams-08 - flow.drawio.svg"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/Docker/1 - Docker and Kernel (Linux).md"
+                "file": "KCA - Foundation/2 - Containers/1- Key Container Concepts.md"
               }
             }
           }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/Docker/1 - Docker and Kernel (Linux).md",
+                "file": "KCA - Foundation/2 - Containers/1- Key Container Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/Docker/1 - Docker and Kernel (Linux).md",
+                "file": "KCA - Foundation/2 - Containers/1- Key Container Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/Docker/1 - Docker and Kernel (Linux).md"
+                "file": "KCA - Foundation/2 - Containers/1- Key Container Concepts.md"
               }
             }
           },
@@ -191,15 +191,15 @@
   },
   "active": "c374fcae1008b293",
   "lastOpenFiles": [
-    "KCA - Foundation/2 - Containers/Docker intro.md",
     "KCA - Foundation/2 - Containers/Docker/1 - Docker and Kernel (Linux).md",
     "KCA - Foundation/2 - Containers/Docker/0 - Docker Simplified.md",
-    "KCA - Foundation/2 - Containers/1- Key Container Concepts.md",
-    "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.49.07.excalidraw.md",
-    "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.49.19.excalidraw.md",
-    "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.49.04.excalidraw.md",
-    "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.49.23.excalidraw.md",
-    "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.49.21.excalidraw.md",
-    "KCA - Foundation/2 - Containers/Docker/Untitled Diagram.svg"
+    "resource/open-and-close-brackets-enclosing-a-hexagon-svgrepo-com.svg",
+    "README.md",
+    "resource/Pasted Image 20221205145718_177.png",
+    "resource/Pasted Image 20221205124752_910.svg",
+    "resource/Pasted Image 20221205124619_861.svg",
+    "My new note.md",
+    "diagrams-08 - flow.drawio.svg",
+    "KCA - Foundation/Questions.md"
   ]
 }

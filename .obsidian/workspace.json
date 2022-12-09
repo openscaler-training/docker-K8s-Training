@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aecd8d0c3003bd8a",
+        "id": "ac829ea75b39303d",
         "type": "tabs",
         "children": [
           {
-            "id": "4ab77ee635aae50e",
+            "id": "c374fcae1008b293",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -107,11 +107,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 1143.5
+    "width": 432.5
   },
   "right": {
     "id": "b2d6c14e40bf955b",
@@ -127,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/Docker/Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/Docker/Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KCA - Foundation/2 - Containers/Docker/Untitled Diagram.svg"
-              }
+              "state": {}
             }
           },
           {
@@ -187,13 +183,13 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "8bb146b52accd019",
+  "active": "260e97b6c62d6652",
   "lastOpenFiles": [
-    "KCA - Foundation/2 - Containers/1- Key Container Concepts.md",
-    "KCA - Foundation/2 - Containers/Docker/Untitled Diagram.svg",
     "KCA - Foundation/2 - Containers/Docker/Drawing 2022-12-09 11.09.30.excalidraw.md",
-    "diagrams-08 - flow.drawio.svg",
+    "KCA - Foundation/2 - Containers/Docker/Untitled Diagram.svg",
     "KCA - Foundation/2 - Containers/Docker intro.md",
+    "KCA - Foundation/2 - Containers/1- Key Container Concepts.md",
+    "diagrams-08 - flow.drawio.svg",
     "KCA - Foundation/2 - Containers/Drawing 2022-12-07 22.43.20.excalidraw.md",
     "KCA - Foundation/2 - Containers/Workflow.md",
     "Excalidraw/Scripts/Set Stroke Width of Selected Elements.md",

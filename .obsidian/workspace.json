@@ -11,11 +11,9 @@
             "id": "0564f77b75ace58d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes KCA/December 10 2022 session Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "resource/Kubernetes ML DL.pdf"
               }
             }
           }
@@ -131,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes KCA/December 10 2022 session Notes.md",
+                "file": "resource/Kubernetes ML DL.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes KCA/December 10 2022 session Notes.md",
+                "file": "resource/Kubernetes ML DL.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes KCA/December 10 2022 session Notes.md"
+                "file": "resource/Kubernetes ML DL.pdf"
               }
             }
           },
@@ -193,6 +191,7 @@
   },
   "active": "0564f77b75ace58d",
   "lastOpenFiles": [
+    "Notes KCA/December 10 2022 session Notes.md",
     "Notes KCA/Session Question.md",
     "KCA - Foundation/Linux Foundation for K8s.md",
     "KCA - Foundation/Questions.md",
@@ -201,7 +200,6 @@
     "KCA - Foundation/2 - Containers/docker workflow steps.md",
     "KCA - Foundation/2 - Containers/Docker intro.md",
     "KCA - Foundation/2 - Containers/Workflow.md",
-    "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
-    "KCA - Foundation/CNCF & Linux Foundation/0 - Intro.md"
+    "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md"
   ]
 }

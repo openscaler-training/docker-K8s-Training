@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md"
+                "file": "docker workflow steps.md"
               }
             }
           }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
+                "file": "docker workflow steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
+                "file": "docker workflow steps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md"
+                "file": "docker workflow steps.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "c374fcae1008b293",
   "lastOpenFiles": [
-    "KCA - Foundation/CNCF & Linux Foundation/0 - Intro.md",
     "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
+    "KCA - Foundation/CNCF & Linux Foundation/0 - Intro.md",
     "KCA - Foundation/CNCF & Linux Foundation/CKA.md",
     "KCA - Foundation/CNCF & Linux Foundation/Drawing 2022-12-09 23.17.44.excalidraw.md",
     "KCA - Foundation/CNCF & Linux Foundation/Drawing 2022-12-09 23.17.46.excalidraw.md",

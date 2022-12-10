@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "KCA - Foundation/DevOps/Pet vs Cattle.md"
+                "file": "KCA - Foundation/0 - Little of history/Tech shift.md"
               }
             }
           }
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b2d6c14e40bf955b",
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KCA - Foundation/DevOps/Pet vs Cattle.md",
+                "file": "KCA - Foundation/0 - Little of history/Tech shift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KCA - Foundation/DevOps/Pet vs Cattle.md",
+                "file": "KCA - Foundation/0 - Little of history/Tech shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KCA - Foundation/DevOps/Pet vs Cattle.md"
+                "file": "KCA - Foundation/0 - Little of history/Tech shift.md"
               }
             }
           },
@@ -189,8 +190,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "c374fcae1008b293",
+  "active": "260e97b6c62d6652",
   "lastOpenFiles": [
+    "KCA - Foundation/DevOps/Pet vs Cattle.md",
     "KCA - Foundation/DevOps/Classic vs Cloud-native App.md",
     "Notes KCA/Session Question.md",
     "KCA - Foundation/Questions.md",
@@ -199,7 +201,6 @@
     "KCA - Foundation/CNCF & Linux Foundation/Drawing 2022-12-09 23.17.44.excalidraw.md",
     "KCA - Foundation/CNCF & Linux Foundation/CKA.md",
     "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
-    "KCA - Foundation/CNCF & Linux Foundation/0 - Intro.md",
-    "KCA - Foundation/0 - Little of history/Tech shift.md"
+    "KCA - Foundation/CNCF & Linux Foundation/0 - Intro.md"
   ]
 }

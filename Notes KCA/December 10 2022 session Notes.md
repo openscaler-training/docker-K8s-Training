@@ -6,5 +6,6 @@ https://www.cncf.io/announcements/2022/02/10/cncf-sees-record-kubernetes-and-con
 - Kubernetes history (google Borg) link the documentary CNCF
 - OpenAI and GPT 3 training infrastructure and the largest cluster ever Deployed https://openai.com/blog/scaling-kubernetes-to-7500-nodes/
 - link to Linux foundation courses for K8s 
-- kubernetes for Machine and Deep Learning [[Kubernetes ML DL.pdf]]
+- kubernetes for Machine and Deep Learning [[Kubernetes ML DL.pdf]] [[screencapture-learning-oreilly-library-view-machine-learning-on-9781803241807-2022-12-11-00_13_44.png]]
+- 
 - 

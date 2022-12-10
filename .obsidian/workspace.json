@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/Workflow.md"
+                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md"
               }
             }
           }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/Workflow.md",
+                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/Workflow.md",
+                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/Workflow.md"
+                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md"
               }
             }
           },
@@ -191,15 +191,15 @@
   },
   "active": "c374fcae1008b293",
   "lastOpenFiles": [
-    "KCA - Foundation/2 - Containers/Docker intro.md",
-    "KCA - Foundation/2 - Containers/Workflow.md",
-    "KCA - Foundation/DevOps/Classic vs Cloud-native App.md",
     "KCA - Foundation/CNCF & Linux Foundation/0 - Intro.md",
-    "KCA - Foundation/CNCF & Linux Foundation/CKA.md",
     "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
-    "KCA - Foundation/0 - Little of history/Tech shift.md",
+    "KCA - Foundation/CNCF & Linux Foundation/CKA.md",
+    "KCA - Foundation/CNCF & Linux Foundation/Drawing 2022-12-09 23.17.44.excalidraw.md",
+    "KCA - Foundation/CNCF & Linux Foundation/Drawing 2022-12-09 23.17.46.excalidraw.md",
+    "KCA - Foundation/CNCF & Linux Foundation/Drawing 2022-12-09 23.17.48.excalidraw.md",
+    "KCA - Foundation/DevOps/Classic vs Cloud-native App.md",
     "KCA - Foundation/DevOps/Pet vs Cattle.md",
-    "Notes KCA/Session Question.md",
-    "KCA - Foundation/Questions.md"
+    "resource/Pasted Image 20221209221240_042.svg",
+    "resource/Pasted Image 20221209221327_176.png"
   ]
 }

@@ -1,1 +1,2 @@
-- 
+- Kubernetes trend (# CNCF Sees Record Kubernetes and Container Adoption in 2021 Cloud Native Survey) 
+- [[https://www.cncf.io/announcements/2022/02/10/cncf-sees-record-kubernetes-and-container-adoption-in-2021-cloud-native-survey/]]

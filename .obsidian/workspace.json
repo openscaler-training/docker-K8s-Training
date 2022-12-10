@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ac829ea75b39303d",
+        "id": "9126ee238e0bfb6d",
         "type": "tabs",
         "children": [
           {
-            "id": "0564f77b75ace58d",
+            "id": "eb9ea21ac025b452",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "resource/Kubernetes ML DL.pdf"
+                "file": "Notes KCA/December 10 2022 session Notes.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -129,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resource/Kubernetes ML DL.pdf",
+                "file": "Notes KCA/December 10 2022 session Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resource/Kubernetes ML DL.pdf",
+                "file": "Notes KCA/December 10 2022 session Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resource/Kubernetes ML DL.pdf"
+                "file": "Notes KCA/December 10 2022 session Notes.md"
               }
             }
           },
@@ -189,17 +191,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "0564f77b75ace58d",
+  "active": "eb9ea21ac025b452",
   "lastOpenFiles": [
-    "Notes KCA/December 10 2022 session Notes.md",
     "Notes KCA/Session Question.md",
+    "resource/Kubernetes ML DL.pdf",
+    "Notes KCA/December 10 2022 session Notes.md",
     "KCA - Foundation/Linux Foundation for K8s.md",
     "KCA - Foundation/Questions.md",
     "KCA - Foundation/DevOps/Pet vs Cattle.md",
     "KCA - Foundation/DevOps/Classic vs Cloud-native App.md",
     "KCA - Foundation/2 - Containers/docker workflow steps.md",
     "KCA - Foundation/2 - Containers/Docker intro.md",
-    "KCA - Foundation/2 - Containers/Workflow.md",
-    "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md"
+    "KCA - Foundation/2 - Containers/Workflow.md"
   ]
 }

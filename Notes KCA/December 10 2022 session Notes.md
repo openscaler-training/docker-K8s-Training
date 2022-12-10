@@ -4,7 +4,7 @@ https://www.cncf.io/announcements/2022/02/10/cncf-sees-record-kubernetes-and-con
 - DPU SmartNic 
 - Quantum effect in regard to processor minimalistic prints
 - Kubernetes history (google Borg) link the documentary CNCF
-- OpenAI and GPT 3 training infrastructure and the largest cluster ever Deployed 
+- OpenAI and GPT 3 training infrastructure and the largest cluster ever Deployed https://openai.com/blog/scaling-kubernetes-to-7500-nodes/
 - link to Linux foundation courses for K8s 
 - kubernetes for Machine and Deep Learning [[Kubernetes ML DL.pdf]]
 - 

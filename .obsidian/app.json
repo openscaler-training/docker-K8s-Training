@@ -1,4 +1,7 @@
 {
   "defaultViewMode": "preview",
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "SmartNic"
+  ]
 }

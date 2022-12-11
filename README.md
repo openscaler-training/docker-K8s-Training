@@ -6,9 +6,9 @@
 
 ## My softwares : 
 
-Obsidian for windows  version 1.0.3 
-Obsidian plugin Excalidraw vesrion 1.8.4
-git version 2.38.1 for windows 
+* Obsidian for windows  version 1.0.3 
+* Obsidian plugin Excalidraw vesrion 1.8.4
+* git version 2.38.1 for windows 
 
 in order to run | visiolise the training draw processed as below 
 - Install Obsidian

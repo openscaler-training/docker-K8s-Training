@@ -13,4 +13,4 @@ in order to run | visiolise the training draw processed as below
 - Add plugin Excalidraw 
 - Clone the repo 
 - Create new or existing obsidian vault than point to the cloned repo 
-if any issue or question please posted it in the discession https://github.com/openscaler-training/docker-K8s-Training/discussions
+if any issue or question please posted it in the [Discussion](https://github.com/openscaler-training/docker-K8s-Training/discussions)

@@ -1,7 +1,7 @@
 # docker-K8s-Training
 
-
-[![image](https://user-images.githubusercontent.com/119819132/206930175-568c5e73-0fd5-4fe9-b33d-5fd21fd90403.png=40x25)]
+[![workinprogress](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png =400x250)]
+[![image](https://user-images.githubusercontent.com/119819132/206930175-568c5e73-0fd5-4fe9-b33d-5fd21fd90403.png =40x25)]
 
 ## Introduction to Docker and K8s Cert prep
 

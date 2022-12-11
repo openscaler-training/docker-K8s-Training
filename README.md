@@ -2,6 +2,7 @@
 
 
 ![NicePng_work-in-progress-png_1379308](https://user-images.githubusercontent.com/119819132/206932039-6046c71f-701e-4ba2-977f-d048e00003dc.png)
+![NicePng_work-in-progress-png_1379308](https://user-images.githubusercontent.com/119819132/206932540-b7806bc0-21f1-4c77-bbc7-8140d59f59b5.png)
 
 
 ## Introduction to Docker and K8s Cert prep

@@ -1,6 +1,6 @@
 # docker-K8s-Training
 
-![image](https://user-images.githubusercontent.com/119819132/206931841-8d1e9d57-9a9b-4a41-9216-a71db358cf6e.png |width=100)
+![image](https://user-images.githubusercontent.com/119819132/206931841-8d1e9d57-9a9b-4a41-9216-a71db358cf6e.png)
 
 ## Introduction to Docker and K8s Cert prep
 

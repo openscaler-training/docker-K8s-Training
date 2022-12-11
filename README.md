@@ -4,11 +4,13 @@
 
 ![image](https://user-images.githubusercontent.com/119819132/206928408-1dea0fd9-6edb-40a1-b5d1-77c9a6efa999.png)
 
-## My softwares : 
+## Required softwares : 
 
 * Obsidian for windows  version 1.0.3 
 * Obsidian plugin Excalidraw vesrion 1.8.4
 * git version 2.38.1 for windows 
+
+## Configuration Steps :
 
 in order to run | visiolise the training draw processed as below 
 - Install Obsidian

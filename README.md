@@ -13,7 +13,7 @@
 
 ## Configuration Steps :
 
-### To run | visualise the slide proceed  as described below 
+### To Edit | visualise the slide proceed  as described below 
 
 - Install Obsidian
 - Add plugin Excalidraw 

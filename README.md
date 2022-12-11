@@ -1,4 +1,4 @@
-# Docker and Kubernetes Training  *(USTHB Micro Club)* ![SeekPng com_work-in-progress-png_1379498](https://user-images.githubusercontent.com/119819132/206934006-9068b86c-5226-4898-8511-9cf089b7f2b5.png)
+# Docker and Kubernetes Training  *(USTHB Micro Club)* Inline-style: ![SeekPng com_work-in-progress-png_1379498](https://user-images.githubusercontent.com/119819132/206934006-9068b86c-5226-4898-8511-9cf089b7f2b5.png)
 
 
 ## Introduction to Docker and Kubernetes Cert prep

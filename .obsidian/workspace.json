@@ -11,9 +11,11 @@
             "id": "eb9ea21ac025b452",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/docker workflow steps.md"
+                "file": "Notes KCA/December 10 2022 session Notes.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -129,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/docker workflow steps.md",
+                "file": "Notes KCA/December 10 2022 session Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/docker workflow steps.md",
+                "file": "Notes KCA/December 10 2022 session Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KCA - Foundation/2 - Containers/docker workflow steps.md"
+                "file": "Notes KCA/December 10 2022 session Notes.md"
               }
             }
           },
@@ -191,6 +193,7 @@
   },
   "active": "eb9ea21ac025b452",
   "lastOpenFiles": [
+    "KCA - Foundation/2 - Containers/docker workflow steps.md",
     "KCA - Foundation/2 - Containers/Docker intro.md",
     "KCA - Foundation/2 - Containers/Docker/1 - Docker and Kernel (Linux).md",
     "KCA - Foundation/2 - Containers/Docker/0 - Docker Simplified.md",
@@ -199,7 +202,6 @@
     "Notes KCA/December 10 2022 session Notes.md",
     "Notes KCA/Session Question.md",
     "resource/Kubernetes ML DL.pdf",
-    "KCA - Foundation/Linux Foundation for K8s.md",
-    "KCA - Foundation/Questions.md"
+    "KCA - Foundation/Linux Foundation for K8s.md"
   ]
 }

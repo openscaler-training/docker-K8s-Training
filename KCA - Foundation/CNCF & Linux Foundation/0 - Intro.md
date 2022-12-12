@@ -8,15 +8,21 @@ tags: [excalidraw]
 
 
 # Text Elements
-The take away is the organization behind supporting Linux system (and you know linux) ^Ln9umUT7
+The take away is the organization behind supporting Linux system (and you know Linux) ^Ln9umUT7
+
+The take away is the organization behind supporting Kubernetes
+ (extended to Container ecosystem) ^sAyyD0Nl
+
+Is part of ^gaxP7h0V
 
 
 # Embedded files
 cdff6bf937f2314f1eb82f313d125d473efd68a9: [[Pasted Image 20221212220722_894.png]]
-0b2bd4504bbf495504bb1d622f122e4ae7592af0: [[Pasted Image 20221212220737_908.png]]
 61bc25b9ae9791d154abf5b2ae7ea533c0609275: [[Pasted Image 20221212220807_921.png]]
 96f38b28f82b1749d432515f8a6fb3172b829ca2: [[Pasted Image 20221212221325_062.png]]
 f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]]
+5b45b9b7e7f442c6795e74ce52c5bafa5a7e2d0f: [[Pasted Image 20221212222113_352.png]]
+a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]]
 
 %%
 # Drawing
@@ -59,38 +65,6 @@ f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]
 			]
 		},
 		{
-			"id": "DVu-BhD6XQKwO73pmOzpO",
-			"type": "image",
-			"x": -502.5,
-			"y": -331.2578125,
-			"width": 193.99999999999997,
-			"height": 64.66666666666666,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 814445274,
-			"version": 90,
-			"versionNonce": 1348091078,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1670879531027,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "0b2bd4504bbf495504bb1d622f122e4ae7592af0",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
 			"id": "qNYYYD4fnJOG2OR1N46wZ",
 			"type": "image",
 			"x": -540.1008403361345,
@@ -125,9 +99,9 @@ f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]
 		{
 			"id": "Ln9umUT7",
 			"type": "text",
-			"x": -643.5,
+			"x": -653.5,
 			"y": 842.7421875,
-			"width": 1202,
+			"width": 1212,
 			"height": 35,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -140,22 +114,22 @@ f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 707259162,
-			"version": 209,
-			"versionNonce": 2007981082,
+			"version": 210,
+			"versionNonce": 1899400006,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1670879957209,
+			"updated": 1670880283923,
 			"link": null,
 			"locked": false,
-			"text": "The take away is the organization behind supporting Linux system (and you know linux)",
-			"rawText": "The take away is the organization behind supporting Linux system (and you know linux)",
+			"text": "The take away is the organization behind supporting Linux system (and you know Linux)",
+			"rawText": "The take away is the organization behind supporting Linux system (and you know Linux)",
 			"fontSize": 28,
 			"fontFamily": 1,
 			"textAlign": "right",
 			"verticalAlign": "top",
 			"baseline": 25,
 			"containerId": null,
-			"originalText": "The take away is the organization behind supporting Linux system (and you know linux)"
+			"originalText": "The take away is the organization behind supporting Linux system (and you know Linux)"
 		},
 		{
 			"id": "CkmjQh8vjTdBgnTvSy3TT",
@@ -1048,8 +1022,8 @@ f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]
 		{
 			"id": "ro26LvVoVAQ87YOVu_gKi",
 			"type": "image",
-			"x": -436.5,
-			"y": 1033.2421875,
+			"x": -525.5,
+			"y": 1028.2421875,
 			"width": 300,
 			"height": 57,
 			"angle": 0,
@@ -1063,8 +1037,8 @@ f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 712524826,
-			"version": 41,
-			"versionNonce": 823934470,
+			"version": 106,
+			"versionNonce": 1849806982,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -1072,7 +1046,7 @@ f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1670880028738,
+			"updated": 1670880305361,
 			"link": "https://www.cncf.io",
 			"locked": false,
 			"status": "pending",
@@ -1085,10 +1059,10 @@ f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]
 		{
 			"id": "xG5aFgnTM378eT5LLRHh-",
 			"type": "arrow",
-			"x": -339.5,
-			"y": 1024.7421875,
-			"width": 80,
-			"height": 347,
+			"x": -398.26621555088104,
+			"y": 1020.7421875,
+			"width": 1.2337844491189571,
+			"height": 351,
 			"angle": 0,
 			"strokeColor": "#d9480f",
 			"backgroundColor": "transparent",
@@ -1100,11 +1074,11 @@ f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 580356742,
-			"version": 50,
-			"versionNonce": 2110775366,
+			"version": 161,
+			"versionNonce": 402771910,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1670880012415,
+			"updated": 1670880305952,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1113,15 +1087,15 @@ f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]
 					0
 				],
 				[
-					-80,
-					-347
+					-1.2337844491189571,
+					-351
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "ro26LvVoVAQ87YOVu_gKi",
-				"focus": -0.2840235597275907,
-				"gap": 8.5
+				"focus": -0.15083042335448213,
+				"gap": 7.5
 			},
 			"endBinding": null,
 			"startArrowhead": null,
@@ -1160,344 +1134,81 @@ f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]
 			]
 		},
 		{
-			"id": "f5Xjnkn0FUczvuvQp5GpY",
-			"type": "freedraw",
-			"x": -274.5,
-			"y": 553.7421875,
-			"width": 62,
-			"height": 107,
+			"id": "lIt6S3um6yJP2H1QJVmcG",
+			"type": "image",
+			"x": -546.7437591776799,
+			"y": 1736.2421875,
+			"width": 998.4875183553597,
+			"height": 485,
 			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 933166810,
+			"version": 52,
+			"versionNonce": 1141852230,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1670880077292,
+			"link": "https://www.cncf.io/about/who-we-are/",
+			"locked": false,
+			"status": "pending",
+			"fileId": "5b45b9b7e7f442c6795e74ce52c5bafa5a7e2d0f",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "text",
+			"version": 436,
+			"versionNonce": 317677850,
+			"isDeleted": false,
+			"id": "sAyyD0Nl",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -531.5,
+			"y": 2256.2421875,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
+			"width": 890,
+			"height": 70,
+			"seed": 929616858,
 			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 341113498,
-			"version": 77,
-			"versionNonce": 2096559962,
-			"isDeleted": true,
+			"strokeSharpness": "sharp",
 			"boundElements": null,
-			"updated": 1670879531027,
+			"updated": 1670880159937,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-2
-				],
-				[
-					-5,
-					-4
-				],
-				[
-					-8,
-					-5
-				],
-				[
-					-9,
-					-5
-				],
-				[
-					-12,
-					-6
-				],
-				[
-					-13,
-					-8
-				],
-				[
-					-15,
-					-9
-				],
-				[
-					-17,
-					-9
-				],
-				[
-					-19,
-					-9
-				],
-				[
-					-21,
-					-9
-				],
-				[
-					-23,
-					-9
-				],
-				[
-					-25,
-					-9
-				],
-				[
-					-28,
-					-9
-				],
-				[
-					-29,
-					-9
-				],
-				[
-					-30,
-					-9
-				],
-				[
-					-31,
-					-9
-				],
-				[
-					-32,
-					-9
-				],
-				[
-					-35,
-					-9
-				],
-				[
-					-36,
-					-9
-				],
-				[
-					-38,
-					-9
-				],
-				[
-					-39,
-					-9
-				],
-				[
-					-41,
-					-8
-				],
-				[
-					-43,
-					-7
-				],
-				[
-					-45,
-					-6
-				],
-				[
-					-47,
-					-4
-				],
-				[
-					-48,
-					-4
-				],
-				[
-					-50,
-					-2
-				],
-				[
-					-51,
-					-1
-				],
-				[
-					-52,
-					1
-				],
-				[
-					-53,
-					4
-				],
-				[
-					-56,
-					7
-				],
-				[
-					-56,
-					9
-				],
-				[
-					-57,
-					11
-				],
-				[
-					-58,
-					14
-				],
-				[
-					-58,
-					16
-				],
-				[
-					-58,
-					20
-				],
-				[
-					-60,
-					22
-				],
-				[
-					-60,
-					26
-				],
-				[
-					-60,
-					29
-				],
-				[
-					-60,
-					31
-				],
-				[
-					-61,
-					33
-				],
-				[
-					-61,
-					35
-				],
-				[
-					-61,
-					37
-				],
-				[
-					-61,
-					40
-				],
-				[
-					-62,
-					42
-				],
-				[
-					-62,
-					44
-				],
-				[
-					-62,
-					47
-				],
-				[
-					-62,
-					50
-				],
-				[
-					-62,
-					52
-				],
-				[
-					-62,
-					54
-				],
-				[
-					-62,
-					57
-				],
-				[
-					-62,
-					58
-				],
-				[
-					-62,
-					60
-				],
-				[
-					-62,
-					61
-				],
-				[
-					-62,
-					63
-				],
-				[
-					-62,
-					64
-				],
-				[
-					-62,
-					66
-				],
-				[
-					-62,
-					68
-				],
-				[
-					-62,
-					71
-				],
-				[
-					-60,
-					75
-				],
-				[
-					-59,
-					77
-				],
-				[
-					-58,
-					80
-				],
-				[
-					-58,
-					82
-				],
-				[
-					-57,
-					84
-				],
-				[
-					-55,
-					87
-				],
-				[
-					-54,
-					88
-				],
-				[
-					-54,
-					90
-				],
-				[
-					-52,
-					92
-				],
-				[
-					-52,
-					94
-				],
-				[
-					-51,
-					96
-				],
-				[
-					-51,
-					97
-				],
-				[
-					-51,
-					98
-				],
-				[
-					-51,
-					98
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-51,
-				98
-			]
+			"fontSize": 28,
+			"fontFamily": 1,
+			"text": "The take away is the organization behind supporting Kubernetes\n (extended to Container ecosystem)",
+			"rawText": "The take away is the organization behind supporting Kubernetes\n (extended to Container ecosystem)",
+			"baseline": 60,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "The take away is the organization behind supporting Kubernetes\n (extended to Container ecosystem)"
 		},
 		{
-			"id": "yXoq2jAE-_9S5sDx_bPLi",
-			"type": "freedraw",
-			"x": -290.5,
-			"y": 545.7421875,
-			"width": 169,
-			"height": 153,
+			"id": "exxpizecr1g793YQCqoxj",
+			"type": "image",
+			"x": -466.5,
+			"y": -375.2578125,
+			"width": 523,
+			"height": 78.18936877076412,
 			"angle": 0,
-			"strokeColor": "#495057",
+			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -1506,716 +1217,93 @@ f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1987393606,
-			"version": 174,
-			"versionNonce": 1013177734,
-			"isDeleted": true,
+			"seed": 1398028762,
+			"version": 92,
+			"versionNonce": 1572363738,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1670879530403,
-			"link": null,
+			"updated": 1670880270888,
+			"link": "https://www.linuxfoundation.org/",
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1
-				],
-				[
-					-1,
-					-1
-				],
-				[
-					-2,
-					-1
-				],
-				[
-					-5,
-					-1
-				],
-				[
-					-7,
-					-2
-				],
-				[
-					-11,
-					-2
-				],
-				[
-					-13,
-					-2
-				],
-				[
-					-16,
-					-2
-				],
-				[
-					-19,
-					-3
-				],
-				[
-					-21,
-					-3
-				],
-				[
-					-24,
-					-3
-				],
-				[
-					-27,
-					-3
-				],
-				[
-					-29,
-					-3
-				],
-				[
-					-31,
-					-3
-				],
-				[
-					-35,
-					-3
-				],
-				[
-					-37,
-					-3
-				],
-				[
-					-39,
-					-3
-				],
-				[
-					-41,
-					-2
-				],
-				[
-					-43,
-					-1
-				],
-				[
-					-46,
-					1
-				],
-				[
-					-47,
-					2
-				],
-				[
-					-49,
-					3
-				],
-				[
-					-51,
-					6
-				],
-				[
-					-52,
-					9
-				],
-				[
-					-53,
-					12
-				],
-				[
-					-55,
-					14
-				],
-				[
-					-55,
-					18
-				],
-				[
-					-56,
-					22
-				],
-				[
-					-57,
-					24
-				],
-				[
-					-57,
-					27
-				],
-				[
-					-58,
-					32
-				],
-				[
-					-58,
-					35
-				],
-				[
-					-60,
-					39
-				],
-				[
-					-61,
-					44
-				],
-				[
-					-61,
-					48
-				],
-				[
-					-62,
-					52
-				],
-				[
-					-62,
-					56
-				],
-				[
-					-63,
-					60
-				],
-				[
-					-63,
-					64
-				],
-				[
-					-64,
-					67
-				],
-				[
-					-64,
-					71
-				],
-				[
-					-64,
-					75
-				],
-				[
-					-64,
-					80
-				],
-				[
-					-64,
-					83
-				],
-				[
-					-64,
-					88
-				],
-				[
-					-63,
-					92
-				],
-				[
-					-63,
-					97
-				],
-				[
-					-62,
-					100
-				],
-				[
-					-61,
-					104
-				],
-				[
-					-59,
-					109
-				],
-				[
-					-58,
-					110
-				],
-				[
-					-55,
-					114
-				],
-				[
-					-54,
-					116
-				],
-				[
-					-52,
-					120
-				],
-				[
-					-48,
-					123
-				],
-				[
-					-46,
-					125
-				],
-				[
-					-43,
-					127
-				],
-				[
-					-39,
-					130
-				],
-				[
-					-34,
-					133
-				],
-				[
-					-29,
-					136
-				],
-				[
-					-23,
-					139
-				],
-				[
-					-18,
-					141
-				],
-				[
-					-11,
-					145
-				],
-				[
-					-7,
-					147
-				],
-				[
-					-3,
-					148
-				],
-				[
-					2,
-					148
-				],
-				[
-					6,
-					149
-				],
-				[
-					11,
-					149
-				],
-				[
-					14,
-					149
-				],
-				[
-					18,
-					149
-				],
-				[
-					21,
-					149
-				],
-				[
-					24,
-					149
-				],
-				[
-					28,
-					149
-				],
-				[
-					32,
-					149
-				],
-				[
-					34,
-					149
-				],
-				[
-					37,
-					149
-				],
-				[
-					40,
-					149
-				],
-				[
-					42,
-					147
-				],
-				[
-					46,
-					146
-				],
-				[
-					48,
-					145
-				],
-				[
-					51,
-					144
-				],
-				[
-					51,
-					143
-				],
-				[
-					53,
-					141
-				],
-				[
-					56,
-					140
-				],
-				[
-					57,
-					139
-				],
-				[
-					60,
-					137
-				],
-				[
-					61,
-					135
-				],
-				[
-					64,
-					133
-				],
-				[
-					66,
-					131
-				],
-				[
-					67,
-					130
-				],
-				[
-					69,
-					129
-				],
-				[
-					70,
-					128
-				],
-				[
-					72,
-					127
-				],
-				[
-					74,
-					126
-				],
-				[
-					75,
-					125
-				],
-				[
-					76,
-					125
-				],
-				[
-					76,
-					124
-				],
-				[
-					78,
-					124
-				],
-				[
-					79,
-					123
-				],
-				[
-					81,
-					122
-				],
-				[
-					82,
-					122
-				],
-				[
-					83,
-					121
-				],
-				[
-					84,
-					120
-				],
-				[
-					86,
-					119
-				],
-				[
-					88,
-					118
-				],
-				[
-					89,
-					117
-				],
-				[
-					92,
-					115
-				],
-				[
-					92,
-					114
-				],
-				[
-					94,
-					113
-				],
-				[
-					95,
-					112
-				],
-				[
-					96,
-					110
-				],
-				[
-					98,
-					109
-				],
-				[
-					99,
-					107
-				],
-				[
-					100,
-					104
-				],
-				[
-					101,
-					103
-				],
-				[
-					102,
-					102
-				],
-				[
-					102,
-					98
-				],
-				[
-					102,
-					96
-				],
-				[
-					102,
-					92
-				],
-				[
-					102,
-					90
-				],
-				[
-					102,
-					87
-				],
-				[
-					103,
-					83
-				],
-				[
-					103,
-					82
-				],
-				[
-					103,
-					78
-				],
-				[
-					103,
-					76
-				],
-				[
-					103,
-					72
-				],
-				[
-					103,
-					70
-				],
-				[
-					103,
-					67
-				],
-				[
-					105,
-					66
-				],
-				[
-					105,
-					63
-				],
-				[
-					105,
-					61
-				],
-				[
-					105,
-					59
-				],
-				[
-					105,
-					56
-				],
-				[
-					105,
-					54
-				],
-				[
-					105,
-					51
-				],
-				[
-					105,
-					49
-				],
-				[
-					105,
-					46
-				],
-				[
-					105,
-					42
-				],
-				[
-					104,
-					39
-				],
-				[
-					101,
-					35
-				],
-				[
-					98,
-					29
-				],
-				[
-					95,
-					26
-				],
-				[
-					92,
-					22
-				],
-				[
-					88,
-					17
-				],
-				[
-					86,
-					16
-				],
-				[
-					82,
-					14
-				],
-				[
-					78,
-					12
-				],
-				[
-					74,
-					10
-				],
-				[
-					69,
-					8
-				],
-				[
-					62,
-					6
-				],
-				[
-					59,
-					5
-				],
-				[
-					54,
-					2
-				],
-				[
-					49,
-					2
-				],
-				[
-					44,
-					1
-				],
-				[
-					41,
-					0
-				],
-				[
-					37,
-					-1
-				],
-				[
-					32,
-					-3
-				],
-				[
-					27,
-					-3
-				],
-				[
-					24,
-					-4
-				],
-				[
-					20,
-					-4
-				],
-				[
-					16,
-					-4
-				],
-				[
-					13,
-					-4
-				],
-				[
-					8,
-					-4
-				],
-				[
-					4,
-					-4
-				],
-				[
-					1,
-					-4
-				],
-				[
-					-3,
-					-4
-				],
-				[
-					-7,
-					-4
-				],
-				[
-					-11,
-					-4
-				],
-				[
-					-14,
-					-4
-				],
-				[
-					-15,
-					-4
-				],
-				[
-					-15,
-					-4
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-15,
-				-4
+			"status": "pending",
+			"fileId": "a58e69d762b999e6e0052644a25252392beda518",
+			"scale": [
+				1,
+				1
 			]
 		},
 		{
-			"id": "LtllqRoO",
+			"id": "gaxP7h0V",
 			"type": "text",
-			"x": -345.5,
-			"y": 1066.2421875,
+			"x": -375.5,
+			"y": 957.2421875,
+			"width": 150,
+			"height": 35,
+			"angle": 0,
+			"strokeColor": "#d9480f",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1610606342,
+			"version": 12,
+			"versionNonce": 218397722,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1670880339359,
+			"link": null,
+			"locked": false,
+			"text": "Is part of",
+			"rawText": "Is part of",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 25,
+			"containerId": null,
+			"originalText": "Is part of"
+		},
+		{
+			"id": "DVu-BhD6XQKwO73pmOzpO",
+			"type": "image",
+			"x": -502.5,
+			"y": -331.2578125,
+			"width": 193.99999999999997,
+			"height": 64.66666666666666,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 814445274,
+			"version": 91,
+			"versionNonce": 2026619462,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1670880234783,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "0b2bd4504bbf495504bb1d622f122e4ae7592af0",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "f1K5zXv1",
+			"type": "text",
+			"x": -382.5,
+			"y": 2367.2421875,
 			"width": 16,
 			"height": 35,
 			"angle": 0,
@@ -2228,23 +1316,55 @@ f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 2058216326,
-			"version": 3,
-			"versionNonce": 57901766,
+			"seed": 512320154,
+			"version": 15,
+			"versionNonce": 1514746842,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1670879616500,
+			"updated": 1670880178968,
 			"link": null,
 			"locked": false,
 			"text": "",
 			"rawText": "",
 			"fontSize": 28,
 			"fontFamily": 1,
-			"textAlign": "right",
+			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 25,
 			"containerId": null,
 			"originalText": ""
+		},
+		{
+			"id": "WeKMdx_vm09uPsKZFSinz",
+			"type": "image",
+			"x": -366.5,
+			"y": -378.2578125,
+			"width": 150,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 500581894,
+			"version": 5,
+			"versionNonce": 680491974,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1670880219435,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "0b2bd4504bbf495504bb1d622f122e4ae7592af0",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -2259,12 +1379,12 @@ f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 28,
-		"currentItemTextAlign": "right",
+		"currentItemTextAlign": "left",
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 743,
-		"scrollY": -914.2578125,
+		"scrollY": -514.2578125,
 		"zoom": {
 			"value": 1
 		},

@@ -21,6 +21,8 @@ nonprofit Organization ^7R8I7xEk
 
 Cloud Native Trail Map (as a reference for Cloud native app or infra journey) ^axmBbADF
 
+CNCF Cloud Native Interactive Landscape ^kAMvmTXt
+
 
 # Embedded files
 cdff6bf937f2314f1eb82f313d125d473efd68a9: [[Pasted Image 20221212220722_894.png]]
@@ -30,6 +32,7 @@ f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]
 5b45b9b7e7f442c6795e74ce52c5bafa5a7e2d0f: [[Pasted Image 20221212222113_352.png]]
 a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]]
 7ba2e3696e88e0aae4eb40011091098fadd1f3e7: [[Pasted Image 20221212224052_626.png]]
+820abd1eabc7a47e232147c6e7fe43aba3abf6aa: [[Pasted Image 20221212224731_871.png]]
 
 %%
 # Drawing
@@ -1400,6 +1403,73 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 			"originalText": "Cloud Native Trail Map (as a reference for Cloud native app or infra journey)"
 		},
 		{
+			"id": "kAMvmTXt",
+			"type": "text",
+			"x": -569.584252316654,
+			"y": 2999.098699968706,
+			"width": 587,
+			"height": 35,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1145742170,
+			"version": 54,
+			"versionNonce": 1534319430,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1670881681955,
+			"link": "https://landscape.cncf.io/",
+			"locked": false,
+			"text": "CNCF Cloud Native Interactive Landscape",
+			"rawText": "CNCF Cloud Native Interactive Landscape",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 25,
+			"containerId": null,
+			"originalText": "CNCF Cloud Native Interactive Landscape"
+		},
+		{
+			"id": "YehU-p9Ue15aZtaRcr52C",
+			"type": "image",
+			"x": -582.6783232811256,
+			"y": 3099.41211238917,
+			"width": 967.7141969933257,
+			"height": 504.0178109340238,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1962188058,
+			"version": 96,
+			"versionNonce": 2005877402,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1670881673590,
+			"link": "https://landscape.cncf.io/",
+			"locked": false,
+			"status": "pending",
+			"fileId": "820abd1eabc7a47e232147c6e7fe43aba3abf6aa",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
 			"type": "text",
 			"version": 144,
 			"versionNonce": 952124550,
@@ -1452,7 +1522,7 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 861.083213073342,
-		"scrollY": -1972.9225623393015,
+		"scrollY": -2700.370949254388,
 		"zoom": {
 			"value": 0.9622675815785541
 		},

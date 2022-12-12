@@ -17,11 +17,13 @@ Is part of ^gaxP7h0V
 
 nonprofit Organization ^Qipe0iAG
 
-nonprofit Organization ^7R8I7xEk
+nonprofit Organization have a look in the Charter  ^7R8I7xEk
 
 Cloud Native Trail Map (as a reference for Cloud native app or infra journey) ^axmBbADF
 
 CNCF Cloud Native Interactive Landscape ^kAMvmTXt
+
+read the guide to understand it :(  ^3hQ6XaVG
 
 
 # Embedded files
@@ -1019,8 +1021,8 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 		},
 		{
 			"type": "image",
-			"version": 106,
-			"versionNonce": 1849806982,
+			"version": 129,
+			"versionNonce": 2060235674,
 			"isDeleted": false,
 			"id": "ro26LvVoVAQ87YOVu_gKi",
 			"fillStyle": "hachure",
@@ -1029,12 +1031,12 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -525.5,
-			"y": 1028.2421875,
+			"x": -559.2470417087679,
+			"y": 1027.2029755186927,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
-			"width": 300,
-			"height": 57,
+			"width": 382.0430511558375,
+			"height": 72.58817971960912,
 			"seed": 712524826,
 			"groupIds": [],
 			"strokeSharpness": "round",
@@ -1044,7 +1046,7 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1670880305361,
+			"updated": 1670881964432,
 			"link": "https://www.cncf.io",
 			"locked": false,
 			"status": "pending",
@@ -1056,8 +1058,8 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 		},
 		{
 			"type": "arrow",
-			"version": 161,
-			"versionNonce": 402771910,
+			"version": 185,
+			"versionNonce": 1815964422,
 			"isDeleted": false,
 			"id": "xG5aFgnTM378eT5LLRHh-",
 			"fillStyle": "hachure",
@@ -1066,23 +1068,23 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -398.26621555088104,
-			"y": 1020.7421875,
+			"x": -397.3539351495861,
+			"y": 1017.6518992397966,
 			"strokeColor": "#d9480f",
 			"backgroundColor": "transparent",
-			"width": 1.2337844491189571,
-			"height": 351,
+			"width": 2.146064850413893,
+			"height": 347.90971173979665,
 			"seed": 580356742,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1670880305952,
+			"updated": 1670881964433,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "ro26LvVoVAQ87YOVu_gKi",
-				"focus": -0.15083042335448213,
-				"gap": 7.5
+				"gap": 9.551076278895938,
+				"focus": -0.15083042335448213
 			},
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -1094,8 +1096,8 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 					0
 				],
 				[
-					-1.2337844491189571,
-					-351
+					-2.146064850413893,
+					-347.90971173979665
 				]
 			]
 		},
@@ -1302,8 +1304,8 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 		},
 		{
 			"type": "text",
-			"version": 86,
-			"versionNonce": 1419976730,
+			"version": 201,
+			"versionNonce": 1191562822,
 			"isDeleted": false,
 			"id": "7R8I7xEk",
 			"fillStyle": "hachure",
@@ -1312,28 +1314,28 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -145.5,
-			"y": 1042.2421875,
+			"x": -149.65684792522904,
+			"y": 1065.948003163531,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 304,
-			"height": 35,
+			"width": 504,
+			"height": 25,
 			"seed": 1233433050,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670880390401,
-			"link": null,
+			"updated": 1670881986626,
+			"link": "https://github.com/cncf/foundation/blob/main/charter.md",
 			"locked": false,
-			"fontSize": 28,
+			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "nonprofit Organization",
-			"rawText": "nonprofit Organization",
-			"baseline": 25,
+			"text": "nonprofit Organization have a look in the Charter ",
+			"rawText": "nonprofit Organization have a look in the Charter ",
+			"baseline": 18,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "nonprofit Organization"
+			"originalText": "nonprofit Organization have a look in the Charter "
 		},
 		{
 			"id": "KAuehX-UbzznLcWgfnojF",
@@ -1440,8 +1442,8 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 		{
 			"id": "YehU-p9Ue15aZtaRcr52C",
 			"type": "image",
-			"x": -582.6783232811256,
-			"y": 3099.41211238917,
+			"x": -580.599899318511,
+			"y": 3067.196540968645,
 			"width": 967.7141969933257,
 			"height": 504.0178109340238,
 			"angle": 0,
@@ -1455,11 +1457,11 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1962188058,
-			"version": 96,
-			"versionNonce": 2005877402,
+			"version": 121,
+			"versionNonce": 2079828358,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1670881673590,
+			"updated": 1670881837912,
 			"link": "https://landscape.cncf.io/",
 			"locked": false,
 			"status": "pending",
@@ -1468,6 +1470,41 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 				1,
 				1
 			]
+		},
+		{
+			"id": "3hQ6XaVG",
+			"type": "text",
+			"x": -548.8000126905088,
+			"y": 3611.194556958686,
+			"width": 497,
+			"height": 35,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 342478490,
+			"version": 38,
+			"versionNonce": 1046822298,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1670881869702,
+			"link": "https://landscape.cncf.io/guide",
+			"locked": false,
+			"text": "read the guide to understand it :( ",
+			"rawText": "read the guide to understand it :( ",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 25,
+			"containerId": null,
+			"originalText": "read the guide to understand it :( "
 		},
 		{
 			"type": "text",
@@ -1516,13 +1553,13 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 28,
+		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 861.083213073342,
-		"scrollY": -2700.370949254388,
+		"scrollY": -3116.0557417772948,
 		"zoom": {
 			"value": 0.9622675815785541
 		},

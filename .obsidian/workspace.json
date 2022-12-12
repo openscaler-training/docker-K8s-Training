@@ -11,11 +11,9 @@
             "id": "eb9ea21ac025b452",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes KCA/December 10 2022 session Notes.md",
-                "mode": "preview",
-                "source": false
+                "file": "KCA - Foundation/2 - Containers/Docker/1 - Docker and Kernel (Linux).md"
               }
             }
           }
@@ -115,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 348.5
   },
   "right": {
     "id": "b2d6c14e40bf955b",
@@ -131,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes KCA/December 10 2022 session Notes.md",
+                "file": "KCA - Foundation/2 - Containers/Docker/1 - Docker and Kernel (Linux).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes KCA/December 10 2022 session Notes.md",
+                "file": "KCA - Foundation/2 - Containers/Docker/1 - Docker and Kernel (Linux).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes KCA/December 10 2022 session Notes.md"
+                "file": "KCA - Foundation/2 - Containers/Docker/1 - Docker and Kernel (Linux).md"
               }
             }
           },
@@ -193,13 +191,13 @@
   },
   "active": "eb9ea21ac025b452",
   "lastOpenFiles": [
+    "KCA - Foundation/2 - Containers/Docker/0 - Docker Simplified.md",
+    "Notes KCA/December 10 2022 session Notes.md",
     "KCA - Foundation/2 - Containers/docker workflow steps.md",
     "KCA - Foundation/2 - Containers/Docker intro.md",
     "KCA - Foundation/2 - Containers/Docker/1 - Docker and Kernel (Linux).md",
-    "KCA - Foundation/2 - Containers/Docker/0 - Docker Simplified.md",
     "KCA - Foundation/1 - Linux for K8s/Drawing 2022-11-22 22.17.26.excalidraw.md",
     "KCA - Foundation/0 - Little of history/Tech shift.md",
-    "Notes KCA/December 10 2022 session Notes.md",
     "Notes KCA/Session Question.md",
     "resource/Kubernetes ML DL.pdf",
     "KCA - Foundation/Linux Foundation for K8s.md"

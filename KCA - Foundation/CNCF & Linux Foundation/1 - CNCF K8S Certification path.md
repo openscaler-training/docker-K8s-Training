@@ -8,8 +8,12 @@ tags: [excalidraw]
 
 
 # Text Elements
+We are aiming to prepare you to pass the exam 
+and get certified or at least gain the  or acquire 
+the knowlage to pass  ^AkScEES2
+
 require in order to 
-pass the exam ^AkScEES2
+pass the exam ^tXLELcyG
 
 %%
 # Drawing
@@ -53840,10 +53844,10 @@ pass the exam ^AkScEES2
 		},
 		{
 			"type": "text",
-			"version": 64,
-			"versionNonce": 841272748,
+			"version": 66,
+			"versionNonce": 354959194,
 			"isDeleted": false,
-			"id": "AkScEES2",
+			"id": "tXLELcyG",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
@@ -53856,11 +53860,11 @@ pass the exam ^AkScEES2
 			"backgroundColor": "black",
 			"width": 193,
 			"height": 50,
-			"seed": 282573100,
+			"seed": 1806756870,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1670662403507,
+			"boundElements": null,
+			"updated": 1670882207021,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -53872,12 +53876,47 @@ pass the exam ^AkScEES2
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "require in order to \npass the exam"
+		},
+		{
+			"type": "text",
+			"version": 211,
+			"versionNonce": 1460493594,
+			"isDeleted": false,
+			"id": "AkScEES2",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": -400,
+			"y": -1320,
+			"strokeColor": "#000000",
+			"backgroundColor": "black",
+			"width": 513,
+			"height": 75,
+			"seed": 282573100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1670882327599,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "We are aiming to prepare you to pass the exam \nand get certified or at least gain the  or acquire \nthe knowlage to pass ",
+			"rawText": "We are aiming to prepare you to pass the exam \nand get certified or at least gain the  or acquire \nthe knowlage to pass ",
+			"baseline": 68,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "We are aiming to prepare you to pass the exam \nand get certified or at least gain the  or acquire \nthe knowlage to pass "
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#d9480f",
+		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "black",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 4,
@@ -53890,10 +53929,10 @@ pass the exam ^AkScEES2
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1099.5282953224757,
-		"scrollY": 1566.325627794214,
+		"scrollX": 1130.2555680497485,
+		"scrollY": 1619.5749175669412,
 		"zoom": {
-			"value": 1.1
+			"value": 1
 		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": 20,

@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1.3 - CKA.md"
+                "file": "KCA - Foundation/CNCF & Linux Foundation/0 - Intro.md"
               }
             }
           }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1.3 - CKA.md",
+                "file": "KCA - Foundation/CNCF & Linux Foundation/0 - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1.3 - CKA.md",
+                "file": "KCA - Foundation/CNCF & Linux Foundation/0 - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1.3 - CKA.md"
+                "file": "KCA - Foundation/CNCF & Linux Foundation/0 - Intro.md"
               }
             }
           },
@@ -189,17 +189,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "260e97b6c62d6652",
+  "active": "eb9ea21ac025b452",
   "lastOpenFiles": [
-    "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
     "KCA - Foundation/CNCF & Linux Foundation/1.3 - CKA.md",
+    "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
     "KCA - Foundation/CNCF & Linux Foundation/0 - Intro.md",
+    "KCA - Foundation/2 - Containers/docker workflow steps.md",
+    "KCA - Foundation/2 - Containers/Docker intro.md",
+    "KCA - Foundation/2 - Containers/1- Key Container Concepts.md",
+    "KCA - Foundation/2 - Containers/Docker/1 - Docker and Kernel (Linux).md",
+    "KCA - Foundation/2 - Containers/Docker/0 - Docker Simplified.md",
     "KCA - Foundation/1 - Linux for Container/Drawing 2022-11-22 22.17.26.excalidraw.md",
-    "KCA - Foundation/Questions.md",
-    "KCA - Foundation/0 - Little of history/Tech shift.md",
-    "README.md",
-    "resource/stateofkubernetes2022-ebook-2.1.pdf",
-    "resource/SeekPng.com_work-in-progress-png_1379498.png",
-    "resource/screencapture-learning-oreilly-library-view-machine-learning-on-9781803241807-2022-12-11-00_13_44.png"
+    "KCA - Foundation/Questions.md"
   ]
 }

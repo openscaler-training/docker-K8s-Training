@@ -19,7 +19,7 @@ nonprofit Organization ^Qipe0iAG
 
 nonprofit Organization ^7R8I7xEk
 
-[[CNCF_TrailMap_latest.pdf]] ^EnIuO8SZ
+Cloud Native Trail Map (as a reference for Cloud native app or infra journey) ^axmBbADF
 
 
 # Embedded files
@@ -29,6 +29,7 @@ cdff6bf937f2314f1eb82f313d125d473efd68a9: [[Pasted Image 20221212220722_894.png]
 f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]]
 5b45b9b7e7f442c6795e74ce52c5bafa5a7e2d0f: [[Pasted Image 20221212222113_352.png]]
 a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]]
+7ba2e3696e88e0aae4eb40011091098fadd1f3e7: [[Pasted Image 20221212224052_626.png]]
 
 %%
 # Drawing
@@ -1332,10 +1333,77 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 			"originalText": "nonprofit Organization"
 		},
 		{
-			"type": "text",
-			"version": 139,
-			"versionNonce": 1422002438,
+			"id": "KAuehX-UbzznLcWgfnojF",
+			"type": "image",
+			"x": -598.7647281121564,
+			"y": 2520.525893039321,
+			"width": 1149.5969216511066,
+			"height": 387.80394009346344,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 355204998,
+			"version": 297,
+			"versionNonce": 1581447942,
 			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1670881438050,
+			"link": "https://github.com/cncf/trailmap",
+			"locked": false,
+			"status": "pending",
+			"fileId": "7ba2e3696e88e0aae4eb40011091098fadd1f3e7",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "axmBbADF",
+			"type": "text",
+			"x": -561.2705564661958,
+			"y": 2429.6105342123246,
+			"width": 1095,
+			"height": 35,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 321733638,
+			"version": 134,
+			"versionNonce": 1510049050,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1670881453816,
+			"link": "https://github.com/cncf/trailmap",
+			"locked": false,
+			"text": "Cloud Native Trail Map (as a reference for Cloud native app or infra journey)",
+			"rawText": "Cloud Native Trail Map (as a reference for Cloud native app or infra journey)",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 25,
+			"containerId": null,
+			"originalText": "Cloud Native Trail Map (as a reference for Cloud native app or infra journey)"
+		},
+		{
+			"type": "text",
+			"version": 144,
+			"versionNonce": 952124550,
+			"isDeleted": true,
 			"id": "EnIuO8SZ",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -1353,7 +1421,7 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670881211286,
+			"updated": 1670881313480,
 			"link": "[[CNCF_TrailMap_latest.pdf]]",
 			"locked": false,
 			"fontSize": 28,
@@ -1383,10 +1451,10 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2517.1666666666665,
-		"scrollY": -799.9348958333333,
+		"scrollX": 861.083213073342,
+		"scrollY": -1972.9225623393015,
 		"zoom": {
-			"value": 0.30000000000000004
+			"value": 0.9622675815785541
 		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null,

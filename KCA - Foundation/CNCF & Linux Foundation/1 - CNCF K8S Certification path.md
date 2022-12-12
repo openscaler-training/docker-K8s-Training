@@ -8,12 +8,18 @@ tags: [excalidraw]
 
 
 # Text Elements
-We are aiming to prepare you to pass the exam 
-and get certified or at least gain the  or acquire 
-the knowlage to pass  ^AkScEES2
+We are aiming to prepare you to pass the
+exam and get certified (CKA) or at least 
+gain the same level of knowledge  ^AkScEES2
 
 require in order to 
 pass the exam ^tXLELcyG
+
+the certification is not our target 
+but the knowledge is. ^meTlFV2n
+
+the certification is not our target 
+but the knowledge is. ^BWc7S3Jn
 
 %%
 # Drawing
@@ -53879,8 +53885,8 @@ pass the exam ^tXLELcyG
 		},
 		{
 			"type": "text",
-			"version": 211,
-			"versionNonce": 1460493594,
+			"version": 268,
+			"versionNonce": 235239066,
 			"isDeleted": false,
 			"id": "AkScEES2",
 			"fillStyle": "hachure",
@@ -53889,28 +53895,98 @@ pass the exam ^tXLELcyG
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": -400,
+			"x": -360,
 			"y": -1320,
 			"strokeColor": "#000000",
 			"backgroundColor": "black",
-			"width": 513,
+			"width": 427,
 			"height": 75,
 			"seed": 282573100,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670882327599,
+			"updated": 1670882457377,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "We are aiming to prepare you to pass the exam \nand get certified or at least gain the  or acquire \nthe knowlage to pass ",
-			"rawText": "We are aiming to prepare you to pass the exam \nand get certified or at least gain the  or acquire \nthe knowlage to pass ",
+			"text": "We are aiming to prepare you to pass the\nexam and get certified (CKA) or at least \ngain the same level of knowledge ",
+			"rawText": "We are aiming to prepare you to pass the\nexam and get certified (CKA) or at least \ngain the same level of knowledge ",
 			"baseline": 68,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "We are aiming to prepare you to pass the exam \nand get certified or at least gain the  or acquire \nthe knowlage to pass "
+			"originalText": "We are aiming to prepare you to pass the\nexam and get certified (CKA) or at least \ngain the same level of knowledge "
+		},
+		{
+			"type": "text",
+			"version": 353,
+			"versionNonce": 900643866,
+			"isDeleted": false,
+			"id": "meTlFV2n",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": -760,
+			"y": -1300,
+			"strokeColor": "#000000",
+			"backgroundColor": "black",
+			"width": 355,
+			"height": 50,
+			"seed": 406329370,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": null,
+			"updated": 1670882523082,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "the certification is not our target \nbut the knowledge is.",
+			"rawText": "the certification is not our target \nbut the knowledge is.",
+			"baseline": 43,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "the certification is not our target \nbut the knowledge is."
+		},
+		{
+			"type": "text",
+			"version": 358,
+			"versionNonce": 230514842,
+			"isDeleted": false,
+			"id": "BWc7S3Jn",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1140,
+			"y": -1240,
+			"strokeColor": "#000000",
+			"backgroundColor": "black",
+			"width": 355,
+			"height": 50,
+			"seed": 2127510106,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": null,
+			"updated": 1670882546844,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "the certification is not our target \nbut the knowledge is.",
+			"rawText": "the certification is not our target \nbut the knowledge is.",
+			"baseline": 43,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "the certification is not our target \nbut the knowledge is."
 		}
 	],
 	"appState": {
@@ -53929,8 +54005,8 @@ pass the exam ^tXLELcyG
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1130.2555680497485,
-		"scrollY": 1619.5749175669412,
+		"scrollX": 1296.2555680497485,
+		"scrollY": 1621.5749175669412,
 		"zoom": {
 			"value": 1
 		},

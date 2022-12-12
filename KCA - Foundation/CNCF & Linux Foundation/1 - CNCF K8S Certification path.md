@@ -30,6 +30,8 @@ for another session ^UhXICMqJ
 
 Please for your good, watch this video fist before assisting to the session  ^2b31vLyO
 
+14 hours is long I know but it worthy, it ok to do not grasp it all, we will review it before starting. 2x to 3x ;0 duable ^Cu4K9iO7
+
 
 # Embedded files
 abc43c3c3c409472df7757da3715c5130270265b: [[Pasted Image 20221212231538_888.png]]
@@ -54176,9 +54178,9 @@ abc43c3c3c409472df7757da3715c5130270265b: [[Pasted Image 20221212231538_888.png]
 			"id": "2b31vLyO",
 			"type": "text",
 			"x": -1100,
-			"y": -780,
-			"width": 1371,
-			"height": 45,
+			"y": -775,
+			"width": 1066,
+			"height": 35,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "black",
@@ -54190,20 +54192,20 @@ abc43c3c3c409472df7757da3715c5130270265b: [[Pasted Image 20221212231538_888.png]
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1210972614,
-			"version": 88,
-			"versionNonce": 1391569542,
+			"version": 91,
+			"versionNonce": 2109822234,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1670884461367,
+			"updated": 1670884630843,
 			"link": null,
 			"locked": false,
 			"text": "Please for your good, watch this video fist before assisting to the session ",
 			"rawText": "Please for your good, watch this video fist before assisting to the session ",
-			"fontSize": 36,
+			"fontSize": 28,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 32,
+			"baseline": 25,
 			"containerId": null,
 			"originalText": "Please for your good, watch this video fist before assisting to the session "
 		},
@@ -54238,6 +54240,41 @@ abc43c3c3c409472df7757da3715c5130270265b: [[Pasted Image 20221212231538_888.png]
 				1,
 				1
 			]
+		},
+		{
+			"id": "Cu4K9iO7",
+			"type": "text",
+			"x": -1080,
+			"y": -720,
+			"width": 1196,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "black",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1312336090,
+			"version": 178,
+			"versionNonce": 364919622,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1670884711196,
+			"link": null,
+			"locked": false,
+			"text": "14 hours is long I know but it worthy, it ok to do not grasp it all, we will review it before starting. 2x to 3x ;0 duable",
+			"rawText": "14 hours is long I know but it worthy, it ok to do not grasp it all, we will review it before starting. 2x to 3x ;0 duable",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "14 hours is long I know but it worthy, it ok to do not grasp it all, we will review it before starting. 2x to 3x ;0 duable"
 		},
 		{
 			"id": "jYjwIeFD",
@@ -54286,15 +54323,15 @@ abc43c3c3c409472df7757da3715c5130270265b: [[Pasted Image 20221212231538_888.png]
 		"currentItemRoughness": 2,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 36,
+		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1677.112710906892,
-		"scrollY": 1486.2961026318771,
+		"scrollX": 1206.8714828367167,
+		"scrollY": 1122.5995565792452,
 		"zoom": {
-			"value": 0.5999999999999996
+			"value": 0.95
 		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": 20,

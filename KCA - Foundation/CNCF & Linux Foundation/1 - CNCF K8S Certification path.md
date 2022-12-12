@@ -28,7 +28,7 @@ Job market (Linkedin) No Comment ;( ^P5lTb6bv
 you get the basics , deep dive 
 for another session ^UhXICMqJ
 
-Please for your good, watch this video fist before assisting to the session  ^2b31vLyO
+Please for your good, watch those videos fist before assisting to the session  ^2b31vLyO
 
 14 hours is long I know but it worthy, it ok to do not grasp it all, we will review it before starting. 2x to 3x ;0 duable ^Cu4K9iO7
 
@@ -54178,8 +54178,8 @@ abc43c3c3c409472df7757da3715c5130270265b: [[Pasted Image 20221212231538_888.png]
 			"id": "2b31vLyO",
 			"type": "text",
 			"x": -1100,
-			"y": -775,
-			"width": 1066,
+			"y": -780,
+			"width": 1106,
 			"height": 35,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -54192,22 +54192,22 @@ abc43c3c3c409472df7757da3715c5130270265b: [[Pasted Image 20221212231538_888.png]
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1210972614,
-			"version": 91,
-			"versionNonce": 2109822234,
+			"version": 98,
+			"versionNonce": 1033138054,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1670884630843,
+			"updated": 1670885682688,
 			"link": null,
 			"locked": false,
-			"text": "Please for your good, watch this video fist before assisting to the session ",
-			"rawText": "Please for your good, watch this video fist before assisting to the session ",
+			"text": "Please for your good, watch those videos fist before assisting to the session ",
+			"rawText": "Please for your good, watch those videos fist before assisting to the session ",
 			"fontSize": 28,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 25,
 			"containerId": null,
-			"originalText": "Please for your good, watch this video fist before assisting to the session "
+			"originalText": "Please for your good, watch those videos fist before assisting to the session "
 		},
 		{
 			"id": "amj2Zt_n1uBvrjKF9mK3d",

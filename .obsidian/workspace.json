@@ -11,9 +11,9 @@
             "id": "eb9ea21ac025b452",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md"
+                "file": "Pasted Image 20221212220722_894.png"
               }
             }
           }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
+                "file": "Pasted Image 20221212220722_894.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
+                "file": "Pasted Image 20221212220722_894.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md"
+                "file": "Pasted Image 20221212220722_894.png"
               }
             }
           },
@@ -191,15 +191,15 @@
   },
   "active": "eb9ea21ac025b452",
   "lastOpenFiles": [
+    "Pasted Image 20221212220737_908.png",
+    "Pasted Image 20221212220722_894.png",
+    "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
     "KCA - Foundation/CNCF & Linux Foundation/0 - Intro.md",
     "resource/CNCF_TrailMap_latest.pdf",
     "KCA - Foundation/CNCF & Linux Foundation/1.3 - CKA.md",
-    "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
     "KCA - Foundation/2 - Containers/docker workflow steps.md",
     "KCA - Foundation/2 - Containers/Docker intro.md",
     "KCA - Foundation/2 - Containers/1- Key Container Concepts.md",
-    "KCA - Foundation/2 - Containers/Docker/1 - Docker and Kernel (Linux).md",
-    "KCA - Foundation/2 - Containers/Docker/0 - Docker Simplified.md",
-    "KCA - Foundation/1 - Linux for Container/Drawing 2022-11-22 22.17.26.excalidraw.md"
+    "KCA - Foundation/2 - Containers/Docker/1 - Docker and Kernel (Linux).md"
   ]
 }

@@ -30,11 +30,11 @@ for another session ^UhXICMqJ
 
 Please for your good, watch those videos fist before assisting to the session  ^2b31vLyO
 
-14 hours is long I know but it worthy, it ok to do not grasp it all, we will review it before starting. 2x to 3x ;0 duable ^MiiTxrNR
+14 hours is long I know but it worthy, its ok to do not grasp it all, we will review it before starting. 2x to 3x ;0 dabble the speed ^MiiTxrNR
 
 easy going intro to Linux system (Ubuntu desktop) to get you familied with it.  ^XpjVMY77
 
-easy going intro to Linux system (Ubuntu desktop) to get you familied with it.  ^YJTeKOmD
+the Linux knowledge shared in this course make you manage K8S in ease you feel you know what going on. highly recommending it    ^YJTeKOmD
 
 
 # Embedded files
@@ -54252,7 +54252,7 @@ c4a55989a9860a925207e27a54f2c7a61e90a08b: [[Pasted Image 20221213002215_160.png]
 			"type": "text",
 			"x": -1060,
 			"y": 921,
-			"width": 1196,
+			"width": 1312,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -54265,22 +54265,22 @@ c4a55989a9860a925207e27a54f2c7a61e90a08b: [[Pasted Image 20221213002215_160.png]
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 286758662,
-			"version": 243,
-			"versionNonce": 1199307910,
+			"version": 256,
+			"versionNonce": 1405421766,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1670887464005,
+			"updated": 1670887786285,
 			"link": null,
 			"locked": false,
-			"text": "14 hours is long I know but it worthy, it ok to do not grasp it all, we will review it before starting. 2x to 3x ;0 duable",
-			"rawText": "14 hours is long I know but it worthy, it ok to do not grasp it all, we will review it before starting. 2x to 3x ;0 duable",
+			"text": "14 hours is long I know but it worthy, its ok to do not grasp it all, we will review it before starting. 2x to 3x ;0 dabble the speed",
+			"rawText": "14 hours is long I know but it worthy, its ok to do not grasp it all, we will review it before starting. 2x to 3x ;0 dabble the speed",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "14 hours is long I know but it worthy, it ok to do not grasp it all, we will review it before starting. 2x to 3x ;0 duable"
+			"originalText": "14 hours is long I know but it worthy, its ok to do not grasp it all, we will review it before starting. 2x to 3x ;0 dabble the speed"
 		},
 		{
 			"id": "XpjVMY77",
@@ -54383,8 +54383,8 @@ c4a55989a9860a925207e27a54f2c7a61e90a08b: [[Pasted Image 20221213002215_160.png]
 		},
 		{
 			"type": "text",
-			"version": 111,
-			"versionNonce": 339285850,
+			"version": 313,
+			"versionNonce": 1020571334,
 			"isDeleted": false,
 			"id": "YJTeKOmD",
 			"fillStyle": "hachure",
@@ -54397,24 +54397,24 @@ c4a55989a9860a925207e27a54f2c7a61e90a08b: [[Pasted Image 20221213002215_160.png]
 			"y": 80,
 			"strokeColor": "#000000",
 			"backgroundColor": "black",
-			"width": 788,
+			"width": 1295,
 			"height": 25,
 			"seed": 481243270,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": null,
-			"updated": 1670887498544,
+			"updated": 1670887720219,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "easy going intro to Linux system (Ubuntu desktop) to get you familied with it. ",
-			"rawText": "easy going intro to Linux system (Ubuntu desktop) to get you familied with it. ",
+			"text": "the Linux knowledge shared in this course make you manage K8S in ease you feel you know what going on. highly recommending it   ",
+			"rawText": "the Linux knowledge shared in this course make you manage K8S in ease you feel you know what going on. highly recommending it   ",
 			"baseline": 18,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "easy going intro to Linux system (Ubuntu desktop) to get you familied with it. "
+			"originalText": "the Linux knowledge shared in this course make you manage K8S in ease you feel you know what going on. highly recommending it   "
 		}
 	],
 	"appState": {
@@ -54433,8 +54433,8 @@ c4a55989a9860a925207e27a54f2c7a61e90a08b: [[Pasted Image 20221213002215_160.png]
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1746.7801614903642,
-		"scrollY": 374.04629209911127,
+		"scrollX": 1338.0301614903642,
+		"scrollY": -2129.703707900889,
 		"zoom": {
 			"value": 0.7999999999999998
 		},

@@ -165,7 +165,7 @@ Disk/SSD/NVMe ^AbZ5SbyR
 Portion of each made
  available to process ^Q7XRVxo2
 
-@@ ^hkUVM1r5
+@@ present ns and cg  ^hkUVM1r5
 
 %%
 # Drawing
@@ -7769,7 +7769,7 @@ Portion of each made
 			"seed": 338719898,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202008,
 			"link": null,
 			"locked": false,
@@ -7814,7 +7814,7 @@ Portion of each made
 			"seed": 707449178,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202008,
 			"link": null,
 			"locked": false,
@@ -7859,7 +7859,7 @@ Portion of each made
 			"seed": 1916507674,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202008,
 			"link": null,
 			"locked": false,
@@ -7904,7 +7904,7 @@ Portion of each made
 			"seed": 760595162,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202008,
 			"link": null,
 			"locked": false,
@@ -7982,7 +7982,7 @@ Portion of each made
 				"O4WpU0UT1wPWtYVBJEQ77"
 			],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202009,
 			"link": null,
 			"locked": false,
@@ -8056,7 +8056,7 @@ Portion of each made
 				"NeCpWsar0AQNRP9672vnS"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202009,
 			"link": null,
 			"locked": false
@@ -8085,7 +8085,7 @@ Portion of each made
 				"NeCpWsar0AQNRP9672vnS"
 			],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202009,
 			"link": null,
 			"locked": false,
@@ -8122,7 +8122,7 @@ Portion of each made
 				"jNBPODBwBKo5qFmX9llFP"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202009,
 			"link": null,
 			"locked": false
@@ -8151,7 +8151,7 @@ Portion of each made
 				"jNBPODBwBKo5qFmX9llFP"
 			],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202009,
 			"link": null,
 			"locked": false,
@@ -8188,7 +8188,7 @@ Portion of each made
 				"V6sN4p-LvLUuoRQDPLHHv"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202009,
 			"link": null,
 			"locked": false
@@ -8217,7 +8217,7 @@ Portion of each made
 				"V6sN4p-LvLUuoRQDPLHHv"
 			],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202009,
 			"link": null,
 			"locked": false,
@@ -8254,7 +8254,7 @@ Portion of each made
 				"OCeq2gG53AVEYptdEc9zV"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202009,
 			"link": null,
 			"locked": false
@@ -8283,7 +8283,7 @@ Portion of each made
 				"OCeq2gG53AVEYptdEc9zV"
 			],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202009,
 			"link": null,
 			"locked": false,
@@ -8320,7 +8320,7 @@ Portion of each made
 				"e0FAdBIIhjIcnQbbox-CW"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202009,
 			"link": null,
 			"locked": false
@@ -8349,7 +8349,7 @@ Portion of each made
 				"e0FAdBIIhjIcnQbbox-CW"
 			],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202009,
 			"link": null,
 			"locked": false,
@@ -8386,7 +8386,7 @@ Portion of each made
 				"AGffCqaNuov-WzZ74HiPG"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202009,
 			"link": null,
 			"locked": false
@@ -8407,15 +8407,15 @@ Portion of each made
 			"y": 2520.4861748292064,
 			"strokeColor": "#364fc7",
 			"backgroundColor": "#868e96",
-			"width": 126.67291557397434,
-			"height": 46.57092484337292,
+			"width": 127,
+			"height": 46,
 			"seed": 917495130,
 			"groupIds": [
 				"OXmZfBiLpX7gDAar7Tz6-",
 				"AGffCqaNuov-WzZ74HiPG"
 			],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202010,
 			"link": null,
 			"locked": false,
@@ -8423,7 +8423,7 @@ Portion of each made
 			"fontFamily": 1,
 			"text": "Inter process\nCommunication",
 			"rawText": "Inter process\nCommunication",
-			"baseline": 39.57092484337292,
+			"baseline": 39,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -8450,7 +8450,7 @@ Portion of each made
 			"seed": 1111433754,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202010,
 			"link": null,
 			"locked": false,
@@ -8716,7 +8716,7 @@ Portion of each made
 				"4iG_JhPOK6y7cLUjyp-qi"
 			],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202010,
 			"link": null,
 			"locked": false,
@@ -8753,7 +8753,7 @@ Portion of each made
 				"EHOxWa4FyTwMj_lwdY2um"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202010,
 			"link": null,
 			"locked": false
@@ -8782,7 +8782,7 @@ Portion of each made
 				"EHOxWa4FyTwMj_lwdY2um"
 			],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202010,
 			"link": null,
 			"locked": false,
@@ -8819,7 +8819,7 @@ Portion of each made
 				"E6sIrSxK8q7z6kBv_weP2"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202010,
 			"link": null,
 			"locked": false
@@ -8848,7 +8848,7 @@ Portion of each made
 				"E6sIrSxK8q7z6kBv_weP2"
 			],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202010,
 			"link": null,
 			"locked": false,
@@ -8885,7 +8885,7 @@ Portion of each made
 				"8xp8Ea_ADTKzwCBTIwOu6"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202010,
 			"link": null,
 			"locked": false
@@ -8914,7 +8914,7 @@ Portion of each made
 				"8xp8Ea_ADTKzwCBTIwOu6"
 			],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202010,
 			"link": null,
 			"locked": false,
@@ -8980,7 +8980,7 @@ Portion of each made
 				"xGMGOhxHsime9joh4DkmY"
 			],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202011,
 			"link": null,
 			"locked": false,
@@ -9068,7 +9068,7 @@ Portion of each made
 			"seed": 745969754,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202011,
 			"link": null,
 			"locked": false,
@@ -9103,7 +9103,7 @@ Portion of each made
 			"seed": 1284585498,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202011,
 			"link": null,
 			"locked": false,
@@ -9210,7 +9210,7 @@ Portion of each made
 			"seed": 2011673242,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847213560,
 			"link": null,
 			"locked": false,
@@ -9259,7 +9259,7 @@ Portion of each made
 			"seed": 563469318,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847213539,
 			"link": null,
 			"locked": false,
@@ -9294,7 +9294,7 @@ Portion of each made
 			"seed": 338542810,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202011,
 			"link": null,
 			"locked": false,
@@ -9368,7 +9368,7 @@ Portion of each made
 			"seed": 221549978,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202012,
 			"link": null,
 			"locked": false,
@@ -9442,7 +9442,7 @@ Portion of each made
 			"seed": 268620378,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847219874,
 			"link": null,
 			"locked": false,
@@ -9477,7 +9477,7 @@ Portion of each made
 			"seed": 67999814,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202012,
 			"link": null,
 			"locked": false,
@@ -9514,7 +9514,7 @@ Portion of each made
 				"o6pjBVu10qPdnSUlQJgPO"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202012,
 			"link": null,
 			"locked": false
@@ -9542,7 +9542,7 @@ Portion of each made
 				"o6pjBVu10qPdnSUlQJgPO"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202012,
 			"link": null,
 			"locked": false
@@ -9570,7 +9570,7 @@ Portion of each made
 				"o6pjBVu10qPdnSUlQJgPO"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202012,
 			"link": null,
 			"locked": false
@@ -9598,7 +9598,7 @@ Portion of each made
 				"o6pjBVu10qPdnSUlQJgPO"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202012,
 			"link": null,
 			"locked": false
@@ -9626,7 +9626,7 @@ Portion of each made
 				"o6pjBVu10qPdnSUlQJgPO"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202012,
 			"link": null,
 			"locked": false
@@ -9654,7 +9654,7 @@ Portion of each made
 				"o6pjBVu10qPdnSUlQJgPO"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202012,
 			"link": null,
 			"locked": false
@@ -9682,7 +9682,7 @@ Portion of each made
 				"o6pjBVu10qPdnSUlQJgPO"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202012,
 			"link": null,
 			"locked": false
@@ -9710,7 +9710,7 @@ Portion of each made
 				"o6pjBVu10qPdnSUlQJgPO"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202012,
 			"link": null,
 			"locked": false
@@ -9738,7 +9738,7 @@ Portion of each made
 				"o6pjBVu10qPdnSUlQJgPO"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202012,
 			"link": null,
 			"locked": false
@@ -9766,7 +9766,7 @@ Portion of each made
 				"o6pjBVu10qPdnSUlQJgPO"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -9794,7 +9794,7 @@ Portion of each made
 				"o6pjBVu10qPdnSUlQJgPO"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -9822,7 +9822,7 @@ Portion of each made
 				"o6pjBVu10qPdnSUlQJgPO"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -9850,7 +9850,7 @@ Portion of each made
 				"o6pjBVu10qPdnSUlQJgPO"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -9878,7 +9878,7 @@ Portion of each made
 				"BdGnwtQMzFma4OpNspQjJ"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -9906,7 +9906,7 @@ Portion of each made
 				"BdGnwtQMzFma4OpNspQjJ"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -9934,7 +9934,7 @@ Portion of each made
 				"BdGnwtQMzFma4OpNspQjJ"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -9962,7 +9962,7 @@ Portion of each made
 				"BdGnwtQMzFma4OpNspQjJ"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -9990,7 +9990,7 @@ Portion of each made
 				"BdGnwtQMzFma4OpNspQjJ"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -10018,7 +10018,7 @@ Portion of each made
 				"BdGnwtQMzFma4OpNspQjJ"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -10046,7 +10046,7 @@ Portion of each made
 				"BdGnwtQMzFma4OpNspQjJ"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -10074,7 +10074,7 @@ Portion of each made
 				"BdGnwtQMzFma4OpNspQjJ"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -10102,7 +10102,7 @@ Portion of each made
 				"BdGnwtQMzFma4OpNspQjJ"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -10130,7 +10130,7 @@ Portion of each made
 				"BdGnwtQMzFma4OpNspQjJ"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -10158,7 +10158,7 @@ Portion of each made
 				"BdGnwtQMzFma4OpNspQjJ"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -10186,7 +10186,7 @@ Portion of each made
 				"BdGnwtQMzFma4OpNspQjJ"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202013,
 			"link": null,
 			"locked": false
@@ -10214,7 +10214,7 @@ Portion of each made
 				"BdGnwtQMzFma4OpNspQjJ"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202014,
 			"link": null,
 			"locked": false
@@ -10242,7 +10242,7 @@ Portion of each made
 				"Oxh1yz-FsNAxR4R5r4WIC"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202014,
 			"link": null,
 			"locked": false
@@ -10270,7 +10270,7 @@ Portion of each made
 				"Oxh1yz-FsNAxR4R5r4WIC"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202014,
 			"link": null,
 			"locked": false
@@ -10298,7 +10298,7 @@ Portion of each made
 				"Oxh1yz-FsNAxR4R5r4WIC"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202014,
 			"link": null,
 			"locked": false
@@ -10326,7 +10326,7 @@ Portion of each made
 				"Oxh1yz-FsNAxR4R5r4WIC"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202014,
 			"link": null,
 			"locked": false
@@ -10354,7 +10354,7 @@ Portion of each made
 				"Oxh1yz-FsNAxR4R5r4WIC"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202014,
 			"link": null,
 			"locked": false
@@ -10382,7 +10382,7 @@ Portion of each made
 				"Oxh1yz-FsNAxR4R5r4WIC"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202014,
 			"link": null,
 			"locked": false
@@ -10410,7 +10410,7 @@ Portion of each made
 				"Oxh1yz-FsNAxR4R5r4WIC"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202014,
 			"link": null,
 			"locked": false
@@ -10438,7 +10438,7 @@ Portion of each made
 				"Oxh1yz-FsNAxR4R5r4WIC"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202014,
 			"link": null,
 			"locked": false
@@ -10466,7 +10466,7 @@ Portion of each made
 				"Oxh1yz-FsNAxR4R5r4WIC"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202014,
 			"link": null,
 			"locked": false
@@ -10492,7 +10492,7 @@ Portion of each made
 			"seed": 974353094,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202014,
 			"link": null,
 			"locked": false,
@@ -10562,7 +10562,7 @@ Portion of each made
 			"seed": 904210950,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847213560,
 			"link": null,
 			"locked": false,
@@ -10611,7 +10611,7 @@ Portion of each made
 			"seed": 1709105498,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847213539,
 			"link": null,
 			"locked": false,
@@ -10681,7 +10681,7 @@ Portion of each made
 			"seed": 1022207514,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202015,
 			"link": null,
 			"locked": false,
@@ -10730,7 +10730,7 @@ Portion of each made
 			"seed": 247128198,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202015,
 			"link": null,
 			"locked": false,
@@ -10765,7 +10765,7 @@ Portion of each made
 			"seed": 2001064666,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202015,
 			"link": null,
 			"locked": false,
@@ -10814,7 +10814,7 @@ Portion of each made
 			"seed": 1725489094,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847213560,
 			"link": null,
 			"locked": false,
@@ -10863,7 +10863,7 @@ Portion of each made
 			"seed": 930768794,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847213561,
 			"link": null,
 			"locked": false,
@@ -10914,7 +10914,7 @@ Portion of each made
 				"c31M9fAzYwGuOlfqDm3J9"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202015,
 			"link": null,
 			"locked": false
@@ -10942,7 +10942,7 @@ Portion of each made
 				"c31M9fAzYwGuOlfqDm3J9"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202015,
 			"link": null,
 			"locked": false,
@@ -10979,7 +10979,7 @@ Portion of each made
 				"c31M9fAzYwGuOlfqDm3J9"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202015,
 			"link": null,
 			"locked": false,
@@ -11014,7 +11014,7 @@ Portion of each made
 			"seed": 923543110,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202015,
 			"link": null,
 			"locked": false,
@@ -11051,7 +11051,7 @@ Portion of each made
 				"nPtJdrXYK1-aUOEMhZLAb"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202015,
 			"link": null,
 			"locked": false
@@ -11079,7 +11079,7 @@ Portion of each made
 				"nPtJdrXYK1-aUOEMhZLAb"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202015,
 			"link": null,
 			"locked": false
@@ -11107,7 +11107,7 @@ Portion of each made
 				"nPtJdrXYK1-aUOEMhZLAb"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202015,
 			"link": null,
 			"locked": false,
@@ -11144,7 +11144,7 @@ Portion of each made
 				"xMLkaMb3VNIpQmDYZPRDG"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202015,
 			"link": null,
 			"locked": false
@@ -11172,7 +11172,7 @@ Portion of each made
 				"xMLkaMb3VNIpQmDYZPRDG"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11200,7 +11200,7 @@ Portion of each made
 				"xMLkaMb3VNIpQmDYZPRDG"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11228,7 +11228,7 @@ Portion of each made
 				"xMLkaMb3VNIpQmDYZPRDG"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11256,7 +11256,7 @@ Portion of each made
 				"xMLkaMb3VNIpQmDYZPRDG"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11284,7 +11284,7 @@ Portion of each made
 				"xMLkaMb3VNIpQmDYZPRDG"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11312,7 +11312,7 @@ Portion of each made
 				"xMLkaMb3VNIpQmDYZPRDG"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11340,7 +11340,7 @@ Portion of each made
 				"xMLkaMb3VNIpQmDYZPRDG"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11368,7 +11368,7 @@ Portion of each made
 				"xMLkaMb3VNIpQmDYZPRDG"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11396,7 +11396,7 @@ Portion of each made
 				"9AQ6fk_10LEvh_gyImAXR"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11424,7 +11424,7 @@ Portion of each made
 				"9AQ6fk_10LEvh_gyImAXR"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11452,7 +11452,7 @@ Portion of each made
 				"9AQ6fk_10LEvh_gyImAXR"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11480,7 +11480,7 @@ Portion of each made
 				"9AQ6fk_10LEvh_gyImAXR"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11508,7 +11508,7 @@ Portion of each made
 				"9AQ6fk_10LEvh_gyImAXR"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11536,7 +11536,7 @@ Portion of each made
 				"9AQ6fk_10LEvh_gyImAXR"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11564,7 +11564,7 @@ Portion of each made
 				"9AQ6fk_10LEvh_gyImAXR"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11592,7 +11592,7 @@ Portion of each made
 				"9AQ6fk_10LEvh_gyImAXR"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202016,
 			"link": null,
 			"locked": false
@@ -11620,7 +11620,7 @@ Portion of each made
 				"9AQ6fk_10LEvh_gyImAXR"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202017,
 			"link": null,
 			"locked": false
@@ -11648,7 +11648,7 @@ Portion of each made
 				"o-WAhB_OzBF_0pd-DIZ77"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202017,
 			"link": null,
 			"locked": false
@@ -11676,7 +11676,7 @@ Portion of each made
 				"o-WAhB_OzBF_0pd-DIZ77"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202017,
 			"link": null,
 			"locked": false
@@ -11704,7 +11704,7 @@ Portion of each made
 				"o-WAhB_OzBF_0pd-DIZ77"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202017,
 			"link": null,
 			"locked": false,
@@ -11741,7 +11741,7 @@ Portion of each made
 				"toIrnK2Ztz9yclxyHCg6U"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202017,
 			"link": null,
 			"locked": false
@@ -11769,7 +11769,7 @@ Portion of each made
 				"toIrnK2Ztz9yclxyHCg6U"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202017,
 			"link": null,
 			"locked": false
@@ -11797,7 +11797,7 @@ Portion of each made
 				"toIrnK2Ztz9yclxyHCg6U"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202017,
 			"link": null,
 			"locked": false
@@ -11825,7 +11825,7 @@ Portion of each made
 				"toIrnK2Ztz9yclxyHCg6U"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202017,
 			"link": null,
 			"locked": false
@@ -11853,7 +11853,7 @@ Portion of each made
 				"toIrnK2Ztz9yclxyHCg6U"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202017,
 			"link": null,
 			"locked": false
@@ -11881,7 +11881,7 @@ Portion of each made
 				"toIrnK2Ztz9yclxyHCg6U"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202017,
 			"link": null,
 			"locked": false
@@ -11909,7 +11909,7 @@ Portion of each made
 				"toIrnK2Ztz9yclxyHCg6U"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202017,
 			"link": null,
 			"locked": false
@@ -11937,7 +11937,7 @@ Portion of each made
 				"toIrnK2Ztz9yclxyHCg6U"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202017,
 			"link": null,
 			"locked": false
@@ -11965,7 +11965,7 @@ Portion of each made
 				"toIrnK2Ztz9yclxyHCg6U"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847202017,
 			"link": null,
 			"locked": false
@@ -11993,7 +11993,7 @@ Portion of each made
 				"0DYbcvVRPvwzxgVWENMdx"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847302813,
 			"link": null,
 			"locked": false
@@ -12021,7 +12021,7 @@ Portion of each made
 				"0DYbcvVRPvwzxgVWENMdx"
 			],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847302813,
 			"link": null,
 			"locked": false,
@@ -12072,7 +12072,7 @@ Portion of each made
 				"0DYbcvVRPvwzxgVWENMdx"
 			],
 			"strokeSharpness": "round",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847302813,
 			"link": null,
 			"locked": false,
@@ -12119,7 +12119,7 @@ Portion of each made
 				"0DYbcvVRPvwzxgVWENMdx"
 			],
 			"strokeSharpness": "sharp",
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1670847312333,
 			"link": null,
 			"locked": false,
@@ -12134,170 +12134,39 @@ Portion of each made
 			"originalText": "Portion of each made\n available to process"
 		},
 		{
-			"id": "hkUVM1r5",
 			"type": "text",
-			"x": -927.9384561290339,
-			"y": 3673.3497108979186,
-			"width": 44,
-			"height": 43,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#fd7e14",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "dotted",
-			"roughness": 2,
-			"opacity": 100,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"seed": 1787531098,
-			"version": 31,
-			"versionNonce": 1054120794,
+			"version": 70,
+			"versionNonce": 1620037402,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1670847345298,
-			"link": null,
-			"locked": false,
-			"text": "@@",
-			"rawText": "@@",
-			"fontSize": 36,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 35,
-			"containerId": null,
-			"originalText": "@@"
-		},
-		{
-			"type": "rectangle",
-			"version": 385,
-			"versionNonce": 520609286,
-			"isDeleted": true,
-			"id": "CLgD6JQdvrFHapWL0gDie",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -631.6877575027812,
-			"y": 3331.08503838796,
-			"strokeColor": "#e67700",
-			"backgroundColor": "transparent",
-			"width": 222.46346592818065,
-			"height": 120.49565615219967,
-			"seed": 1347047258,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": null,
-			"updated": 1670847202011,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 388,
-			"versionNonce": 477195610,
-			"isDeleted": true,
-			"id": "B9FNnnyb",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -615.6381918875614,
-			"y": 3349.2337352336194,
-			"strokeColor": "#e67700",
-			"backgroundColor": "transparent",
-			"width": 121,
-			"height": 35,
-			"seed": 1808296774,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": null,
-			"updated": 1670847202011,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "MariaDB",
-			"rawText": "MariaDB",
-			"baseline": 25,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "MariaDB"
-		},
-		{
-			"type": "text",
-			"version": 473,
-			"versionNonce": 549679322,
-			"isDeleted": true,
-			"id": "QAGLX4pt",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -595.8720624338761,
-			"y": 3399.4023400817455,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 157,
-			"height": 25,
-			"seed": 1635055366,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": null,
-			"updated": 1670847202015,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Need Python V2",
-			"rawText": "Need Python V2",
-			"baseline": 18,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Need Python V2"
-		},
-		{
-			"id": "35VH2Wgt",
-			"type": "text",
-			"x": -806.8273450179228,
-			"y": 3653.405266453474,
-			"width": 11,
-			"height": 19,
-			"angle": 0,
-			"strokeColor": "#364fc7",
-			"backgroundColor": "#fd7e14",
+			"id": "hkUVM1r5",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
 			"strokeStyle": "dotted",
 			"roughness": 2,
 			"opacity": 100,
+			"angle": 0,
+			"x": -927.9384561290339,
+			"y": 3685.3497108979186,
+			"strokeColor": "#000000",
+			"backgroundColor": "#fd7e14",
+			"width": 199,
+			"height": 19,
+			"seed": 1787531098,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 639474266,
-			"version": 3,
-			"versionNonce": 1458388762,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1670847267940,
+			"boundElements": [],
+			"updated": 1670848545552,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
 			"fontSize": 16,
 			"fontFamily": 3,
+			"text": "@@ present ns and cg ",
+			"rawText": "@@ present ns and cg ",
+			"baseline": 15,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 15,
 			"containerId": null,
-			"originalText": ""
+			"originalText": "@@ present ns and cg "
 		}
 	],
 	"appState": {
@@ -12311,7 +12180,7 @@ Portion of each made
 		"currentItemRoughness": 2,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 3,
-		"currentItemFontSize": 36,
+		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,

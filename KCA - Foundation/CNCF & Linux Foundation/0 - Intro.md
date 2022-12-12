@@ -16,6 +16,7 @@ cdff6bf937f2314f1eb82f313d125d473efd68a9: [[Pasted Image 20221212220722_894.png]
 0b2bd4504bbf495504bb1d622f122e4ae7592af0: [[Pasted Image 20221212220737_908.png]]
 61bc25b9ae9791d154abf5b2ae7ea533c0609275: [[Pasted Image 20221212220807_921.png]]
 96f38b28f82b1749d432515f8a6fb3172b829ca2: [[Pasted Image 20221212221325_062.png]]
+f37b6832c0755ebaf9109f1c79abd1c756913c61: [[Pasted Image 20221212221958_290.png]]
 
 %%
 # Drawing
@@ -124,8 +125,8 @@ cdff6bf937f2314f1eb82f313d125d473efd68a9: [[Pasted Image 20221212220722_894.png]
 		{
 			"id": "Ln9umUT7",
 			"type": "text",
-			"x": -648.5,
-			"y": 825.7421875,
+			"x": -643.5,
+			"y": 842.7421875,
 			"width": 1202,
 			"height": 35,
 			"angle": 0,
@@ -139,11 +140,11 @@ cdff6bf937f2314f1eb82f313d125d473efd68a9: [[Pasted Image 20221212220722_894.png]
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 707259162,
-			"version": 197,
-			"versionNonce": 750957574,
+			"version": 209,
+			"versionNonce": 2007981082,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1670879531027,
+			"updated": 1670879957209,
 			"link": null,
 			"locked": false,
 			"text": "The take away is the organization behind supporting Linux system (and you know linux)",
@@ -1062,15 +1063,97 @@ cdff6bf937f2314f1eb82f313d125d473efd68a9: [[Pasted Image 20221212220722_894.png]
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 712524826,
-			"version": 38,
-			"versionNonce": 178835034,
+			"version": 41,
+			"versionNonce": 823934470,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1670879606374,
-			"link": null,
+			"boundElements": [
+				{
+					"id": "xG5aFgnTM378eT5LLRHh-",
+					"type": "arrow"
+				}
+			],
+			"updated": 1670880028738,
+			"link": "https://www.cncf.io",
 			"locked": false,
 			"status": "pending",
 			"fileId": "96f38b28f82b1749d432515f8a6fb3172b829ca2",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "xG5aFgnTM378eT5LLRHh-",
+			"type": "arrow",
+			"x": -339.5,
+			"y": 1024.7421875,
+			"width": 80,
+			"height": 347,
+			"angle": 0,
+			"strokeColor": "#d9480f",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 580356742,
+			"version": 50,
+			"versionNonce": 2110775366,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1670880012415,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-80,
+					-347
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "ro26LvVoVAQ87YOVu_gKi",
+				"focus": -0.2840235597275907,
+				"gap": 8.5
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "MflIE8v5lVBnUOqm90GBz",
+			"type": "image",
+			"x": -555.3211875843456,
+			"y": 1149.2421875,
+			"width": 809.642375168691,
+			"height": 485,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 70741082,
+			"version": 80,
+			"versionNonce": 2080133658,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1670880034334,
+			"link": "https://www.cncf.io/about/who-we-are/",
+			"locked": false,
+			"status": "pending",
+			"fileId": "f37b6832c0755ebaf9109f1c79abd1c756913c61",
 			"scale": [
 				1,
 				1
@@ -2165,7 +2248,7 @@ cdff6bf937f2314f1eb82f313d125d473efd68a9: [[Pasted Image 20221212220722_894.png]
 		}
 	],
 	"appState": {
-		"theme": "dark",
+		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#d9480f",
 		"currentItemBackgroundColor": "transparent",
@@ -2181,7 +2264,7 @@ cdff6bf937f2314f1eb82f313d125d473efd68a9: [[Pasted Image 20221212220722_894.png]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 743,
-		"scrollY": -314.2578125,
+		"scrollY": -914.2578125,
 		"zoom": {
 			"value": 1
 		},

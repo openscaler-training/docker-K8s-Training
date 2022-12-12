@@ -21,6 +21,10 @@ but the knowledge is. ^meTlFV2n
 the certification is not our target 
 but the knowledge is. ^BWc7S3Jn
 
+
+# Embedded files
+abc43c3c3c409472df7757da3715c5130270265b: [[Pasted Image 20221212231538_888.png]]
+
 %%
 # Drawing
 ```json
@@ -53987,6 +53991,38 @@ but the knowledge is. ^BWc7S3Jn
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "the certification is not our target \nbut the knowledge is."
+		},
+		{
+			"id": "JaQELe7w4a9BdlFTt-sS3",
+			"type": "image",
+			"x": -1060,
+			"y": -740,
+			"width": 1074.4615384615386,
+			"height": 485,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "black",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 934796038,
+			"version": 18,
+			"versionNonce": 705651782,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1670883331270,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "abc43c3c3c409472df7757da3715c5130270265b",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -54005,8 +54041,8 @@ but the knowledge is. ^BWc7S3Jn
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1296.2555680497485,
-		"scrollY": 1621.5749175669412,
+		"scrollX": 1161.2555680497485,
+		"scrollY": 1440.5749175669412,
 		"zoom": {
 			"value": 1
 		},

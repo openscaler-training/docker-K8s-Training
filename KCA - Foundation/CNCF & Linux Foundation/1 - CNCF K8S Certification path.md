@@ -34,10 +34,10 @@ Please, for your good, watch those videos first before assisting to the session.
 
 easy going intro to Linux system (Ubuntu desktop) to get you familied with it.  ^XpjVMY77
 
-the Linux knowledge shared by Javed make you manage K8S in ease you feel you know what going on. highly recommending it    ^YJTeKOmD
+The Linux knowledge shared by Javed makes you manage K8S with ease; you feel you know what is going on under the hood —I highly recommend it. ^YJTeKOmD
 
-you went to understand what server is (the real hardware that run K8s in production) and OS related config watch Shawn from CBT nuggets course. 
-optional if you watched Javid one   ^8LL7XKs3
+You went to understand what a server is (the actual hardware that runs/Hosts K8s in production) and OS-related configuration; watch 
+Shawn from the CBT Nuggets course. Optional if you watched Javid one  ^8LL7XKs3
 
 
 # Embedded files
@@ -54387,8 +54387,8 @@ ca0689b3cf9db5fd842f51f759990e0901124f33: [[Pasted Image 20221213004224_780.png]
 		},
 		{
 			"type": "text",
-			"version": 326,
-			"versionNonce": 490771295,
+			"version": 327,
+			"versionNonce": 643902449,
 			"isDeleted": false,
 			"id": "YJTeKOmD",
 			"fillStyle": "hachure",
@@ -54401,24 +54401,24 @@ ca0689b3cf9db5fd842f51f759990e0901124f33: [[Pasted Image 20221213004224_780.png]
 			"y": 100,
 			"strokeColor": "#000000",
 			"backgroundColor": "black",
-			"width": 1250,
+			"width": 1463,
 			"height": 25,
 			"seed": 481243270,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1671020541200,
+			"updated": 1671020707161,
 			"link": "https://www.youtube.com/watch?v=_2XU6__I944",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "the Linux knowledge shared by Javed make you manage K8S in ease you feel you know what going on. highly recommending it   ",
-			"rawText": "the Linux knowledge shared by Javed make you manage K8S in ease you feel you know what going on. highly recommending it   ",
+			"text": "The Linux knowledge shared by Javed makes you manage K8S with ease; you feel you know what is going on under the hood —I highly recommend it.",
+			"rawText": "The Linux knowledge shared by Javed makes you manage K8S with ease; you feel you know what is going on under the hood —I highly recommend it.",
 			"baseline": 18,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "the Linux knowledge shared by Javed make you manage K8S in ease you feel you know what going on. highly recommending it   "
+			"originalText": "The Linux knowledge shared by Javed makes you manage K8S with ease; you feel you know what is going on under the hood —I highly recommend it."
 		},
 		{
 			"type": "image",
@@ -54454,8 +54454,8 @@ ca0689b3cf9db5fd842f51f759990e0901124f33: [[Pasted Image 20221213004224_780.png]
 		},
 		{
 			"type": "text",
-			"version": 534,
-			"versionNonce": 1490411142,
+			"version": 545,
+			"versionNonce": 71388351,
 			"isDeleted": false,
 			"id": "8LL7XKs3",
 			"fillStyle": "hachure",
@@ -54468,24 +54468,24 @@ ca0689b3cf9db5fd842f51f759990e0901124f33: [[Pasted Image 20221213004224_780.png]
 			"y": 1000,
 			"strokeColor": "#000000",
 			"backgroundColor": "black",
-			"width": 1507,
+			"width": 1372,
 			"height": 50,
 			"seed": 994182618,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670888903866,
+			"updated": 1671020840488,
 			"link": "https://www.youtube.com/watch?v=WMy3OzvBWc0",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "you went to understand what server is (the real hardware that run K8s in production) and OS related config watch Shawn from CBT nuggets course. \noptional if you watched Javid one  ",
-			"rawText": "you went to understand what server is (the real hardware that run K8s in production) and OS related config watch Shawn from CBT nuggets course. \noptional if you watched Javid one  ",
+			"text": "You went to understand what a server is (the actual hardware that runs/Hosts K8s in production) and OS-related configuration; watch \nShawn from the CBT Nuggets course. Optional if you watched Javid one ",
+			"rawText": "You went to understand what a server is (the actual hardware that runs/Hosts K8s in production) and OS-related configuration; watch \nShawn from the CBT Nuggets course. Optional if you watched Javid one ",
 			"baseline": 43,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "you went to understand what server is (the real hardware that run K8s in production) and OS related config watch Shawn from CBT nuggets course. \noptional if you watched Javid one  "
+			"originalText": "You went to understand what a server is (the actual hardware that runs/Hosts K8s in production) and OS-related configuration; watch \nShawn from the CBT Nuggets course. Optional if you watched Javid one "
 		}
 	],
 	"appState": {
@@ -54505,7 +54505,7 @@ ca0689b3cf9db5fd842f51f759990e0901124f33: [[Pasted Image 20221213004224_780.png]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 1587.6363636363635,
-		"scrollY": 1004.5128517316001,
+		"scrollY": -1177.3053300865822,
 		"zoom": {
 			"value": 0.5499999999999999
 		},

@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/0 - Intro ( Linux Foundation & CNCF ).md"
+                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md"
               }
             }
           }
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "right": {
     "id": "b2d6c14e40bf955b",
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/0 - Intro ( Linux Foundation & CNCF ).md",
+                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/0 - Intro ( Linux Foundation & CNCF ).md",
+                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/0 - Intro ( Linux Foundation & CNCF ).md"
+                "file": "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md"
               }
             }
           },
@@ -192,8 +191,8 @@
   },
   "active": "85eeaf07ca7c5a94",
   "lastOpenFiles": [
-    "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
     "KCA - Foundation/CNCF & Linux Foundation/0 - Intro ( Linux Foundation & CNCF ).md",
+    "KCA - Foundation/CNCF & Linux Foundation/1 - CNCF K8S Certification path.md",
     "KCA - Foundation/1 - Linux for Container/Drawing 2022-11-22 22.17.26.excalidraw.md",
     "KCA - Foundation/0 - Little of history/Tech shift.md",
     "KCA - Foundation/CNCF & Linux Foundation/1.1 - Job carrier (K8s related).md",

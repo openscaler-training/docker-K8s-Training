@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1.3.1 - CKNA.md"
+                "file": "KCA - Foundation/CNCF & Linux Foundation/1.2 - Pre request knowledge.md"
               }
             }
           }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1.3.1 - CKNA.md",
+                "file": "KCA - Foundation/CNCF & Linux Foundation/1.2 - Pre request knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1.3.1 - CKNA.md",
+                "file": "KCA - Foundation/CNCF & Linux Foundation/1.2 - Pre request knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KCA - Foundation/CNCF & Linux Foundation/1.3.1 - CKNA.md"
+                "file": "KCA - Foundation/CNCF & Linux Foundation/1.2 - Pre request knowledge.md"
               }
             }
           },
@@ -191,9 +191,9 @@
   },
   "active": "85eeaf07ca7c5a94",
   "lastOpenFiles": [
+    "KCA - Foundation/CNCF & Linux Foundation/1.3.1 - CKNA.md",
     "KCA - Foundation/CNCF & Linux Foundation/1.3.3 - CKA.md",
     "KCA - Foundation/CNCF & Linux Foundation/1.3.2 - CKAD.md",
-    "KCA - Foundation/CNCF & Linux Foundation/1.3.1 - CKNA.md",
     "KCA - Foundation/CNCF & Linux Foundation/Skill  Career & path.md",
     "KCA - Foundation/CNCF & Linux Foundation/1.3.3 - CKS.md",
     "README.md",

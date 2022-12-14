@@ -25,6 +25,20 @@ CNCF Cloud Native Interactive Landscape ^kAMvmTXt
 
 read the guide to understand it :(  ^3hQ6XaVG
 
+The Linux Foundation is a non-profit consortium dedicated to fostering the growth of Linux.
+Founded in 2007, The Linux Foundation sponsors the work of Linux creator 
+Linus Torvalds and is supported by leading Linux and open source companies and developers from
+ around the world. ^LtitqAj0
+
+The Linux Foundation works closely with open source project communities to deliver relevant,
+respected, hands-on certifications to technology professionals around the world. ^JRA9HA15
+
+         The Linux Foundation is unique in that we don’t just provide the certifications for today’s 
+     most in-demand technologies; our involvement goes far beyond that. We host the projects developing
+these technologies and provide resources and staffing to help keep these development 
+communities healthy and thriving. So when it comes right down to it, no one is closer
+ to these technologies than The Linux Foundation. ^mDS0hQTh
+
 
 # Embedded files
 cdff6bf937f2314f1eb82f313d125d473efd68a9: [[Pasted Image 20221212220722_894.png]]
@@ -1507,10 +1521,115 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 			"originalText": "read the guide to understand it :( "
 		},
 		{
-			"id": "xWBi0uWi",
+			"id": "LtitqAj0",
 			"type": "text",
-			"x": 247.873015873015,
-			"y": 2554.782484332518,
+			"x": 128.09523809523807,
+			"y": 1149.84597639601,
+			"width": 960,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 146196817,
+			"version": 172,
+			"versionNonce": 555572273,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1671023842087,
+			"link": "https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2",
+			"locked": false,
+			"text": "The Linux Foundation is a non-profit consortium dedicated to fostering the growth of Linux.\nFounded in 2007, The Linux Foundation sponsors the work of Linux creator \nLinus Torvalds and is supported by leading Linux and open source companies and developers from\n around the world.",
+			"rawText": "The Linux Foundation is a non-profit consortium dedicated to fostering the growth of Linux.\nFounded in 2007, The Linux Foundation sponsors the work of Linux creator \nLinus Torvalds and is supported by leading Linux and open source companies and developers from\n around the world.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 93,
+			"containerId": null,
+			"originalText": "The Linux Foundation is a non-profit consortium dedicated to fostering the growth of Linux.\nFounded in 2007, The Linux Foundation sponsors the work of Linux creator \nLinus Torvalds and is supported by leading Linux and open source companies and developers from\n around the world."
+		},
+		{
+			"id": "JRA9HA15",
+			"type": "text",
+			"x": 181.76943277310943,
+			"y": 1298.5714665920882,
+			"width": 914,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 2081922833,
+			"version": 79,
+			"versionNonce": 1712437119,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1671023848920,
+			"link": "https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2",
+			"locked": false,
+			"text": "The Linux Foundation works closely with open source project communities to deliver relevant,\nrespected, hands-on certifications to technology professionals around the world.",
+			"rawText": "The Linux Foundation works closely with open source project communities to deliver relevant,\nrespected, hands-on certifications to technology professionals around the world.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 43,
+			"containerId": null,
+			"originalText": "The Linux Foundation works closely with open source project communities to deliver relevant,\nrespected, hands-on certifications to technology professionals around the world."
+		},
+		{
+			"id": "mDS0hQTh",
+			"type": "text",
+			"x": 55.76943277310943,
+			"y": 1406.5714665920882,
+			"width": 1038,
+			"height": 125,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1868122833,
+			"version": 142,
+			"versionNonce": 1777016273,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1671023855759,
+			"link": "https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2",
+			"locked": false,
+			"text": "         The Linux Foundation is unique in that we don’t just provide the certifications for today’s \n     most in-demand technologies; our involvement goes far beyond that. We host the projects developing\nthese technologies and provide resources and staffing to help keep these development \ncommunities healthy and thriving. So when it comes right down to it, no one is closer\n to these technologies than The Linux Foundation.",
+			"rawText": "         The Linux Foundation is unique in that we don’t just provide the certifications for today’s \n     most in-demand technologies; our involvement goes far beyond that. We host the projects developing\nthese technologies and provide resources and staffing to help keep these development \ncommunities healthy and thriving. So when it comes right down to it, no one is closer\n to these technologies than The Linux Foundation.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 118,
+			"containerId": null,
+			"originalText": "         The Linux Foundation is unique in that we don’t just provide the certifications for today’s \n     most in-demand technologies; our involvement goes far beyond that. We host the projects developing\nthese technologies and provide resources and staffing to help keep these development \ncommunities healthy and thriving. So when it comes right down to it, no one is closer\n to these technologies than The Linux Foundation."
+		},
+		{
+			"id": "Tlr2JWpZ",
+			"type": "text",
+			"x": 177.76943277310943,
+			"y": 1316.5714665920882,
 			"width": 12,
 			"height": 25,
 			"angle": 0,
@@ -1523,12 +1642,12 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 1663432671,
+			"seed": 1730113585,
 			"version": 3,
-			"versionNonce": 343516159,
+			"versionNonce": 1191461393,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1671022891062,
+			"updated": 1671023720675,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -1558,10 +1677,10 @@ a58e69d762b999e6e0052644a25252392beda518: [[Pasted Image 20221212222418_669.png]
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 949.9841269841277,
-		"scrollY": -2124.5190914753753,
+		"scrollX": 622.2305672268903,
+		"scrollY": -1002.0870915920882,
 		"zoom": {
-			"value": 0.7000000000000001
+			"value": 1.0000000000000002
 		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null,

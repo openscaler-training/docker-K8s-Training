@@ -28,13 +28,13 @@ Job market (Linkedin) No Comment ;( ^P5lTb6bv
 you get the basics , deep dive 
 for another session ^UhXICMqJ
 
-Please for your good, watch those videos fist before assisting to the session  ^2b31vLyO
+Please, for your good, watch those videos first before assisting to the session. ^2b31vLyO
 
 14 hours is long I know but it worthy, its ok to do not grasp it all, we will review it before starting. 2x to 3x ;0 dabble the speed ^MiiTxrNR
 
 easy going intro to Linux system (Ubuntu desktop) to get you familied with it.  ^XpjVMY77
 
-the Linux knowledge shared Javed make you manage K8S in ease you feel you know what going on. highly recommending it    ^YJTeKOmD
+the Linux knowledge shared by Javed make you manage K8S in ease you feel you know what going on. highly recommending it    ^YJTeKOmD
 
 you went to understand what server is (the real hardware that run K8s in production) and OS related config watch Shawn from CBT nuggets course. 
 optional if you watched Javid one   ^8LL7XKs3
@@ -54186,8 +54186,8 @@ ca0689b3cf9db5fd842f51f759990e0901124f33: [[Pasted Image 20221213004224_780.png]
 		},
 		{
 			"type": "text",
-			"version": 103,
-			"versionNonce": 917673286,
+			"version": 106,
+			"versionNonce": 1298384639,
 			"isDeleted": false,
 			"id": "2b31vLyO",
 			"fillStyle": "hachure",
@@ -54200,24 +54200,24 @@ ca0689b3cf9db5fd842f51f759990e0901124f33: [[Pasted Image 20221213004224_780.png]
 			"y": -820,
 			"strokeColor": "#000000",
 			"backgroundColor": "black",
-			"width": 1106,
+			"width": 1119,
 			"height": 35,
 			"seed": 1210972614,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670887464005,
+			"updated": 1671020501496,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
-			"text": "Please for your good, watch those videos fist before assisting to the session ",
-			"rawText": "Please for your good, watch those videos fist before assisting to the session ",
+			"text": "Please, for your good, watch those videos first before assisting to the session.",
+			"rawText": "Please, for your good, watch those videos first before assisting to the session.",
 			"baseline": 25,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Please for your good, watch those videos fist before assisting to the session "
+			"originalText": "Please, for your good, watch those videos first before assisting to the session."
 		},
 		{
 			"type": "image",
@@ -54387,8 +54387,8 @@ ca0689b3cf9db5fd842f51f759990e0901124f33: [[Pasted Image 20221213004224_780.png]
 		},
 		{
 			"type": "text",
-			"version": 323,
-			"versionNonce": 1208691526,
+			"version": 326,
+			"versionNonce": 490771295,
 			"isDeleted": false,
 			"id": "YJTeKOmD",
 			"fillStyle": "hachure",
@@ -54401,24 +54401,24 @@ ca0689b3cf9db5fd842f51f759990e0901124f33: [[Pasted Image 20221213004224_780.png]
 			"y": 100,
 			"strokeColor": "#000000",
 			"backgroundColor": "black",
-			"width": 1221,
+			"width": 1250,
 			"height": 25,
 			"seed": 481243270,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670888459374,
+			"updated": 1671020541200,
 			"link": "https://www.youtube.com/watch?v=_2XU6__I944",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "the Linux knowledge shared Javed make you manage K8S in ease you feel you know what going on. highly recommending it   ",
-			"rawText": "the Linux knowledge shared Javed make you manage K8S in ease you feel you know what going on. highly recommending it   ",
+			"text": "the Linux knowledge shared by Javed make you manage K8S in ease you feel you know what going on. highly recommending it   ",
+			"rawText": "the Linux knowledge shared by Javed make you manage K8S in ease you feel you know what going on. highly recommending it   ",
 			"baseline": 18,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "the Linux knowledge shared Javed make you manage K8S in ease you feel you know what going on. highly recommending it   "
+			"originalText": "the Linux knowledge shared by Javed make you manage K8S in ease you feel you know what going on. highly recommending it   "
 		},
 		{
 			"type": "image",
@@ -54504,10 +54504,10 @@ ca0689b3cf9db5fd842f51f759990e0901124f33: [[Pasted Image 20221213004224_780.png]
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1349.918470418467,
-		"scrollY": 1512.780550178987,
+		"scrollX": 1587.6363636363635,
+		"scrollY": 1004.5128517316001,
 		"zoom": {
-			"value": 0.7500000000000001
+			"value": 0.5499999999999999
 		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": 20,

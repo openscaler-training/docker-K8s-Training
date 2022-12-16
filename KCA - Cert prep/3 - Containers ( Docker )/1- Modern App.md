@@ -14,20 +14,6 @@ Microservices and containers have probably been the most frequently mentioned bu
 
 Although both terms are definitely related when talking about modern applications ^q02VmdTl
 
-In this parts, we will cover the following topics:
-
-* Understanding the evolution of applications
-* Infrastructures
-* Processes
-* Microservices and processes
-* What are containers?
-* Learning about the main concepts of containers
-* Docker components
-* Building, shipping, and running workflows
-* Windows containers
-* Customizing Docker
-* Docker security ^G3Q9IuoY
-
 As we will probably read about on every IT medium, the concept of microservices is key in 
 the development of new modern applications. ^7pnBXtch
 
@@ -39,6 +25,22 @@ The component's states will be managed externally.
 It will run everywhere.
 It will be prepared for easy component updates.
 Each application component will be able to run on its own but will provide a way to be consumed by other components. ^dCz1bhqp
+
+* Understanding the evolution of applications
+* Infrastructures
+* Processes
+* Microservices and processes
+* What are containers?
+* main concepts of containers
+* Docker components ( no sure with the shift go on tour Containerd)  
+* Building, shipping, and running workflows
+* Windows containers (Just mention it no need to go deep )
+* Customizing Docker (same as above)
+* Docker security (check if the same config apply to OCI containers ) ^8wuGnLGu
+
+make sure to cover the following topics: ^FMN5i755
+
+Note for me  ^k7rj1TLh
 
 
 # Embedded files
@@ -54,8 +56,8 @@ Each application component will be able to run on its own but will provide a way
 	"elements": [
 		{
 			"type": "text",
-			"version": 39,
-			"versionNonce": 2039174840,
+			"version": 40,
+			"versionNonce": 742427071,
 			"isDeleted": false,
 			"id": "XYv3fQbS",
 			"fillStyle": "hachure",
@@ -66,7 +68,7 @@ Each application component will be able to run on its own but will provide a way
 			"angle": 0,
 			"x": -398.25,
 			"y": -277.2578125,
-			"strokeColor": "#c92a2a",
+			"strokeColor": "#364fc7",
 			"backgroundColor": "transparent",
 			"width": 771,
 			"height": 35,
@@ -74,7 +76,7 @@ Each application component will be able to run on its own but will provide a way
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670247668960,
+			"updated": 1671057366264,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -159,43 +161,8 @@ Each application component will be able to run on its own but will provide a way
 		},
 		{
 			"type": "text",
-			"version": 87,
-			"versionNonce": 1941359048,
-			"isDeleted": false,
-			"id": "G3Q9IuoY",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -541.25,
-			"y": 12.2421875,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 688,
-			"height": 455,
-			"seed": 1109566664,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1670248426375,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "In this parts, we will cover the following topics:\n\n* Understanding the evolution of applications\n* Infrastructures\n* Processes\n* Microservices and processes\n* What are containers?\n* Learning about the main concepts of containers\n* Docker components\n* Building, shipping, and running workflows\n* Windows containers\n* Customizing Docker\n* Docker security",
-			"rawText": "In this parts, we will cover the following topics:\n\n* Understanding the evolution of applications\n* Infrastructures\n* Processes\n* Microservices and processes\n* What are containers?\n* Learning about the main concepts of containers\n* Docker components\n* Building, shipping, and running workflows\n* Windows containers\n* Customizing Docker\n* Docker security",
-			"baseline": 445,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "In this parts, we will cover the following topics:\n\n* Understanding the evolution of applications\n* Infrastructures\n* Processes\n* Microservices and processes\n* What are containers?\n* Learning about the main concepts of containers\n* Docker components\n* Building, shipping, and running workflows\n* Windows containers\n* Customizing Docker\n* Docker security"
-		},
-		{
-			"type": "text",
-			"version": 43,
-			"versionNonce": 2139841208,
+			"version": 63,
+			"versionNonce": 926154527,
 			"isDeleted": false,
 			"id": "7pnBXtch",
 			"fillStyle": "hachure",
@@ -204,7 +171,7 @@ Each application component will be able to run on its own but will provide a way
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -595.4166666666666,
+			"x": -661.4166666666666,
 			"y": -103.92447916666666,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -214,7 +181,7 @@ Each application component will be able to run on its own but will provide a way
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670248486688,
+			"updated": 1671057373994,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -229,8 +196,8 @@ Each application component will be able to run on its own but will provide a way
 		},
 		{
 			"type": "image",
-			"version": 141,
-			"versionNonce": 137151916,
+			"version": 189,
+			"versionNonce": 2007316273,
 			"isDeleted": false,
 			"id": "RpzMWWP06fV-7Ukr2NLi3",
 			"fillStyle": "hachure",
@@ -240,16 +207,16 @@ Each application component will be able to run on its own but will provide a way
 			"opacity": 100,
 			"angle": 0,
 			"x": -656.4166666666665,
-			"y": 519.1106770833333,
+			"y": 17.110677083333258,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 1343,
-			"height": 503.78322337417535,
+			"height": 503.7832233741753,
 			"seed": 1942505144,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1670580010119,
+			"updated": 1671057517466,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -261,8 +228,8 @@ Each application component will be able to run on its own but will provide a way
 		},
 		{
 			"type": "text",
-			"version": 3,
-			"versionNonce": 1954063800,
+			"version": 65,
+			"versionNonce": 1674765087,
 			"isDeleted": false,
 			"id": "dCz1bhqp",
 			"fillStyle": "hachure",
@@ -271,8 +238,8 @@ Each application component will be able to run on its own but will provide a way
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -651.4166666666665,
-			"y": 1138.1106770833333,
+			"x": -667.4166666666665,
+			"y": 608.1106770833334,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 1630,
@@ -281,7 +248,7 @@ Each application component will be able to run on its own but will provide a way
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1670248963247,
+			"updated": 1671057524198,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -293,6 +260,111 @@ Each application component will be able to run on its own but will provide a way
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "A modern application has the following features:\n\nThe components will be based on microservices.\nThe application component's health will be based on resilience.\nThe component's states will be managed externally.\nIt will run everywhere.\nIt will be prepared for easy component updates.\nEach application component will be able to run on its own but will provide a way to be consumed by other components."
+		},
+		{
+			"type": "text",
+			"version": 432,
+			"versionNonce": 528552927,
+			"isDeleted": false,
+			"id": "8wuGnLGu",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -579.6488095238096,
+			"y": 1256.5764973958335,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 985,
+			"height": 385,
+			"seed": 1050496977,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1671058351179,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
+			"text": "* Understanding the evolution of applications\n* Infrastructures\n* Processes\n* Microservices and processes\n* What are containers?\n* main concepts of containers\n* Docker components ( no sure with the shift go on tour Containerd)  \n* Building, shipping, and running workflows\n* Windows containers (Just mention it no need to go deep )\n* Customizing Docker (same as above)\n* Docker security (check if the same config apply to OCI containers )",
+			"rawText": "* Understanding the evolution of applications\n* Infrastructures\n* Processes\n* Microservices and processes\n* What are containers?\n* main concepts of containers\n* Docker components ( no sure with the shift go on tour Containerd)  \n* Building, shipping, and running workflows\n* Windows containers (Just mention it no need to go deep )\n* Customizing Docker (same as above)\n* Docker security (check if the same config apply to OCI containers )",
+			"baseline": 375,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "* Understanding the evolution of applications\n* Infrastructures\n* Processes\n* Microservices and processes\n* What are containers?\n* main concepts of containers\n* Docker components ( no sure with the shift go on tour Containerd)  \n* Building, shipping, and running workflows\n* Windows containers (Just mention it no need to go deep )\n* Customizing Docker (same as above)\n* Docker security (check if the same config apply to OCI containers )"
+		},
+		{
+			"type": "text",
+			"version": 148,
+			"versionNonce": 1031094335,
+			"isDeleted": false,
+			"id": "FMN5i755",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -689.7321428571427,
+			"y": 1182.2451171875005,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 555,
+			"height": 35,
+			"seed": 8196543,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1671057662233,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
+			"text": "make sure to cover the following topics:",
+			"rawText": "make sure to cover the following topics:",
+			"baseline": 25,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "make sure to cover the following topics:"
+		},
+		{
+			"type": "text",
+			"version": 233,
+			"versionNonce": 1873618737,
+			"isDeleted": false,
+			"id": "k7rj1TLh",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -679.6904761904761,
+			"y": 1128.410807291667,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 199,
+			"height": 34,
+			"seed": 497291793,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1671057662233,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 3,
+			"text": "Note for me ",
+			"rawText": "Note for me ",
+			"baseline": 27,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Note for me "
 		}
 	],
 	"appState": {
@@ -305,16 +377,16 @@ Each application component will be able to run on its own but will provide a way
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
+		"currentItemFontFamily": 3,
 		"currentItemFontSize": 28,
 		"currentItemTextAlign": "left",
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1473.9166666666665,
-		"scrollY": 401.05794270833337,
+		"scrollX": 1545.796626984127,
+		"scrollY": -47.176703559027715,
 		"zoom": {
-			"value": 0.5
+			"value": 0.45
 		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null,

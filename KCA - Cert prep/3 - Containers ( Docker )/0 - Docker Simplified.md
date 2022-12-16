@@ -7206,10 +7206,10 @@ specific program ^bWn0cG5q
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 3532.529453487831,
-		"scrollY": 689.3206181036433,
+		"scrollX": 989.7437392021166,
+		"scrollY": 1137.1574807018637,
 		"zoom": {
-			"value": 0.2
+			"value": 0.7000000000000001
 		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null,

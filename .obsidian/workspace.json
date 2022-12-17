@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80672f4fc3fc69b0",
+            "id": "80a82ed9a246fdeb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "KCA - Cert prep/0 - CNCF & Linux Foundation/1.2 - Prerequisites knowledge.md"
+                "file": "KCA - Cert prep/Software landscape/Trainer.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,7 +70,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "KCA - Cert prep/3 - Containers ( Docker )/1- Modern App.md"
+                "file": "KCA - Cert prep/Software landscape/1- Modern App.md"
               }
             }
           },
@@ -129,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KCA - Cert prep/0 - CNCF & Linux Foundation/1.2 - Prerequisites knowledge.md",
+                "file": "KCA - Cert prep/Software landscape/Trainer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KCA - Cert prep/0 - CNCF & Linux Foundation/1.2 - Prerequisites knowledge.md",
+                "file": "KCA - Cert prep/Software landscape/Trainer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KCA - Cert prep/0 - CNCF & Linux Foundation/1.2 - Prerequisites knowledge.md"
+                "file": "KCA - Cert prep/Software landscape/Trainer.md"
               }
             }
           },
@@ -188,17 +190,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "80672f4fc3fc69b0",
+  "active": "80a82ed9a246fdeb",
   "lastOpenFiles": [
-    "Notes KCA/December 10 2022 session Notes.md",
-    "Notes KCA/Cheat sheet.md",
     "README.md",
-    "resource/Pasted Image 20221215121152_562.png",
-    "KCA - Cert prep/3 - Containers ( Docker )/1 - Docker and Kernel (Linux).md",
-    "KCA - Cert prep/3 - Containers ( Docker )/0 - Docker Simplified.md",
-    "KCA - Cert prep/2 - Linux for Container/Drawing 2022-11-22 22.17.26.excalidraw.md",
-    "KCA - Cert prep/0 - CNCF & Linux Foundation/Skill  Career & path.md",
-    "KCA - Cert prep/0 - CNCF & Linux Foundation/1.3.3 - CKS.md",
-    "KCA - Cert prep/0 - CNCF & Linux Foundation/1.3.3 - CKA.md"
+    "KCA - Cert prep/Software landscape/Trainer.md",
+    "KCA - Cert prep/Linux Foundation for K8s.md",
+    "KCA - Cert prep/Questions.md",
+    "KCA - Cert prep/Software landscape/Pet vs Cattle.md",
+    "KCA - Cert prep/Software landscape/Container workflow steps (to be updated).md",
+    "KCA - Cert prep/Software landscape/Classic vs Cloud-native App.md",
+    "KCA - Cert prep/Software landscape/1.4 GitOps.md",
+    "KCA - Cert prep/Software landscape/1.3 DevSecOps.md",
+    "KCA - Cert prep/Software landscape/1.2 DevOps.md"
   ]
 }

@@ -59,12 +59,28 @@
             "id": "e43f8a0e0f643d21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "KCA - Cert prep/Software landscape/Trainer to be ignore upper.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d3e024167a05f36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KCA - Cert prep/Software landscape/trainer command.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -173,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KCA - Cert prep/Software landscape/trainer command.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KCA - Cert prep/Software landscape/trainer command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +228,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "KCA - Cert prep/Software landscape/trainer command.md"
+              }
             }
           },
           {
@@ -236,11 +256,11 @@
     "direction": "horizontal",
     "width": 352.5
   },
-  "active": "3647d2ee719feb12",
+  "active": "8d3e024167a05f36",
   "lastOpenFiles": [
-    "KCA - Cert prep/Software landscape/trainer test 4.md",
     "KCA - Cert prep/Software landscape/Trainer to be ignore upper.md",
     "KCA - Cert prep/Software landscape/trainer to be ignore.md",
+    "KCA - Cert prep/Software landscape/trainer test 4.md",
     "KCA - Cert prep/Software landscape/Trainer test file 3.md",
     "KCA - Cert prep/Software landscape/trainer test file 1.md",
     "KCA - Cert prep/Software landscape/trainer test file 2.md",

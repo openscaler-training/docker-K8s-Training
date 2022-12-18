@@ -4,23 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "9029f0a1bc64243a",
+        "id": "e20edad9b3005a18",
         "type": "tabs",
         "children": [
           {
-            "id": "44a324302725067e",
+            "id": "7a1df0011c85255f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KCA - Cert prep/Software landscape/Trainer Commands.md",
+                "file": "KCA - Cert prep/0 - CNCF & Linux Foundation/1.2 - Prerequisites knowledge.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
+      },
+      {
+        "id": "cf3b265e3b1c2286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c725eb6acfc3060",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "KCA - Cert prep/0 - CNCF & Linux Foundation/1.2 - Prerequisites knowledge.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 383.5,
+    "collapsed": true
   },
   "right": {
     "id": "b2d6c14e40bf955b",
@@ -133,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KCA - Cert prep/Software landscape/Trainer Commands.md",
+                "file": "KCA - Cert prep/0 - CNCF & Linux Foundation/1.2 - Prerequisites knowledge.md.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KCA - Cert prep/Software landscape/Trainer Commands.md",
+                "file": "KCA - Cert prep/0 - CNCF & Linux Foundation/1.2 - Prerequisites knowledge.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KCA - Cert prep/Software landscape/Trainer Commands.md"
+                "file": "KCA - Cert prep/0 - CNCF & Linux Foundation/1.2 - Prerequisites knowledge.md.md"
               }
             }
           },
@@ -184,25 +200,34 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "1e99f5db93c7dd40",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
-  "active": "44a324302725067e",
+  "active": "7a1df0011c85255f",
   "lastOpenFiles": [
-    "KCA - Cert prep/Software landscape/Trainer Commands.md",
-    "KCA - Cert prep/Software landscape/Trainer.md",
-    "README.md",
-    "KCA - Cert prep/Linux Foundation for K8s.md",
-    "KCA - Cert prep/Questions.md",
-    "KCA - Cert prep/Software landscape/Pet vs Cattle.md",
-    "KCA - Cert prep/Software landscape/Container workflow steps (to be updated).md",
-    "KCA - Cert prep/Software landscape/Classic vs Cloud-native App.md",
-    "KCA - Cert prep/Software landscape/1.4 GitOps.md",
-    "KCA - Cert prep/Software landscape/1.3 DevSecOps.md"
+    "KCA - Cert prep/0 - CNCF & Linux Foundation/1.2 - Prerequisites knowledge.md",
+    "KCA - Cert prep/0 - CNCF & Linux Foundation/1.2 - Prerequisites knowledge.md.md",
+    "resource/Pasted Image 20221213002346_410.png",
+    "resource/Pasted Image 20221213002215_160.png",
+    "resource/Pasted Image 20221213001529_588.png",
+    "resource/Pasted Image 20221212233313_877.png",
+    "resource/Pasted Image 20221212231538_888.png",
+    "resource/Pasted Image 20221212224052_626.png",
+    "resource/Pasted Image 20221212222418_669.png",
+    "resource/Pasted Image 20221212221958_290.png"
   ]
 }

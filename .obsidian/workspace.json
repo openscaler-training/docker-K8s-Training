@@ -193,24 +193,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 352.5
   },
   "active": "7a1df0011c85255f",
   "lastOpenFiles": [
+    "KCA - Cert prep/Software landscape/trainer test file 1.md",
+    "KCA - Cert prep/Software landscape/Trainer Commands.md",
+    "KCA - Cert prep/Software landscape/Trainer.md",
     "KCA - Cert prep/0 - CNCF & Linux Foundation/Skill  Career & path.md",
     "KCA - Cert prep/1 - Little of history/Tech shift.md",
     "KCA - Cert prep/0 - CNCF & Linux Foundation/1.2 - Prerequisites knowledge.md",
     "KCA - Cert prep/0 - CNCF & Linux Foundation/1.2 - Prerequisites knowledge.md.md",
     "resource/Pasted Image 20221213002346_410.png",
     "resource/Pasted Image 20221213002215_160.png",
-    "resource/Pasted Image 20221213001529_588.png",
-    "resource/Pasted Image 20221212233313_877.png",
-    "resource/Pasted Image 20221212231538_888.png",
-    "resource/Pasted Image 20221212224052_626.png"
+    "resource/Pasted Image 20221213001529_588.png"
   ]
 }

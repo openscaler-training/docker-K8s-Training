@@ -1,7 +1,7 @@
 # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
 .obsidian/*
 
-# teacher notes to be keept 
+# teacher notes to be keept local repo only -- temp rule
 
 teach?
 
@@ -28,3 +28,5 @@ teach?
 # Add below lines to exclude OS settings and caches
 .trash/
 .DS_Store
+
+KCA - Cert prep/Software landscape/Trainer Commands.md

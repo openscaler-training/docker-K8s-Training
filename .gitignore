@@ -5,7 +5,7 @@
 
 teach?
 Teach?
-
+**/[Tt]rainer*
 # OR only to exclude workspace cache
 .obsidian/workspace/*
 

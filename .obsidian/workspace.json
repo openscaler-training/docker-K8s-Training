@@ -11,36 +11,24 @@
             "id": "7a1df0011c85255f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KCA - Cert prep/Software landscape/trainer test file 1.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "21f74da814f715b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KCA - Cert prep/Software landscape/trainer test file 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "63678653f77c5efb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KCA - Cert prep/Software landscape/Trainer test file 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -71,12 +59,8 @@
             "id": "e43f8a0e0f643d21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KCA - Cert prep/Software landscape/trainer test 4.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -189,7 +173,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KCA - Cert prep/Software landscape/trainer test 4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +189,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KCA - Cert prep/Software landscape/trainer test 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,9 +210,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KCA - Cert prep/Software landscape/trainer test 4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -256,8 +236,9 @@
     "direction": "horizontal",
     "width": 352.5
   },
-  "active": "e43f8a0e0f643d21",
+  "active": "3647d2ee719feb12",
   "lastOpenFiles": [
+    "KCA - Cert prep/Software landscape/trainer test 4.md",
     "KCA - Cert prep/Software landscape/Trainer to be ignore upper.md",
     "KCA - Cert prep/Software landscape/trainer to be ignore.md",
     "KCA - Cert prep/Software landscape/Trainer test file 3.md",
@@ -266,7 +247,6 @@
     "KCA - Cert prep/Software landscape/Trainer Commands.md",
     "KCA - Cert prep/Software landscape/Trainer.md",
     "KCA - Cert prep/0 - CNCF & Linux Foundation/Skill  Career & path.md",
-    "KCA - Cert prep/1 - Little of history/Tech shift.md",
-    "KCA - Cert prep/0 - CNCF & Linux Foundation/1.2 - Prerequisites knowledge.md"
+    "KCA - Cert prep/1 - Little of history/Tech shift.md"
   ]
 }

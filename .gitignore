@@ -4,6 +4,7 @@
 # teacher notes to be keept local repo only -- temp rule
 
 teach?
+Teach?
 
 # OR only to exclude workspace cache
 .obsidian/workspace/*
@@ -28,3 +29,7 @@ teach?
 # Add below lines to exclude OS settings and caches
 .trash/
 .DS_Store
+
+KCA - Cert prep/Software landscape/Trainer test file 3.md
+KCA - Cert prep/Software landscape/trainer to be ignore.md
+KCA - Cert prep/Software landscape/Trainer to be ignore upper.md

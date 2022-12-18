@@ -1,6 +1,10 @@
 # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
 .obsidian/*
 
+# teacher notes to be keept 
+
+teach?
+
 # OR only to exclude workspace cache
 .obsidian/workspace/*
 
